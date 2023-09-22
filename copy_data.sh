@@ -1,3 +1,4 @@
 #!/usr/bin/env
-docker cp ./data habr-pg-13.3:/
-cat  ./sql/copy_data.sql | docker exec -i habr-pg-13.3 psql -U andrew -d postgres
+bd_name="my_bd"
+docker cp ./data $bd_name:/
+cat  ./sql/copy_data.sql | docker exec -i $bd_name psql -U andrew -d postgres

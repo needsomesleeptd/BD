@@ -137,7 +137,7 @@ class Game():
 
 
 class GameGenerator():
-    def __init__(self,max_kills = 100, max_duration = 400,people_count = 1000,hero_count = 1000):
+    def __init__(self,max_kills = 100, max_duration = 400,people_count = 999,hero_count = 999):
         self.max_kills = max_kills
         self.max_duration = max_duration
         self.people_count = people_count

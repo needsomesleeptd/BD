@@ -48,6 +48,6 @@ CREATE TABLE game (
     sponsor_id INT,
     viewers INT,
     kills INT,
-    duration TIME,
+    duration INT,
     dark_won BOOLEAN
 );

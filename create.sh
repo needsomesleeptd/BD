@@ -1,2 +1,3 @@
-#!/usr/bin/env 
-cat  ./sql/create.sql | docker exec -i habr-pg-13.3 psql -U andrew -d postgres
+#!/usr/bin/env
+bd_name="my_bd"
+cat  ./sql/create.sql | docker exec -i $bd_name psql -U andrew -d postgres

@@ -34,6 +34,6 @@ ALTER TABLE game ADD CONSTRAINT team_game_constraint FOREIGN KEY (team_id)
 ALTER TABLE game ADD CONSTRAINT sponsor_id FOREIGN KEY (sponsor_id)
         REFERENCES sponsor (sponsor_id) ON DELETE CASCADE;
 
-ALTER TABLE game ADD CONSTRAINT game_viewer_constraint CHECK(viewers < 1000000) ON DELETE CASCADE;
+ALTER TABLE game ADD CONSTRAINT game_viewer_constraint CHECK(viewers < 1000000);
 
 

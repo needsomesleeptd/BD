@@ -12,8 +12,8 @@ def insert_stuff_member_stmt(table):
     return stmt
 
 def insert_df_in_db(df_name,engine,table_name):
-    df_name.to_sql(table_name, engine, if_exists="append", index=False)
-    df_name.to_csv("data/" + table_name + '.csv')
+    #df_name.to_sql(table_name, engine, if_exists="append", index=False)
+    df_name.to_csv("data/" + table_name + '.csv',header = False)
 
 
 db_name = 'postgres'
@@ -60,10 +60,10 @@ df_sponsors = pd.DataFrame([vars(f) for f in sponsors])
 df_teams = pd.DataFrame([vars(f) for f in teams])
 df_games = pd.DataFrame([vars(f) for f in games])
 
-#insert_df_in_db(df_heroes,engine,"heroes")
-#insert_df_in_db(df_players,engine,"players")
-#insert_df_in_db(df_sponsors,engine,"sponsor")
-#insert_df_in_db(df_teams,engine,"team")
+insert_df_in_db(df_heroes,engine,"heroes")
+insert_df_in_db(df_players,engine,"players")
+insert_df_in_db(df_sponsors,engine,"sponsor")
+insert_df_in_db(df_teams,engine,"team")
 insert_df_in_db(df_games,engine,"game")
 
 
