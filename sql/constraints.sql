@@ -24,16 +24,16 @@ ALTER TABLE sponsor ADD CONSTRAINT networth_constraint_low CHECK(0 < networth);
 
 ALTER TABLE game ADD PRIMARY KEY (game_id);
 ALTER TABLE game ADD CONSTRAINT player_game_constraint FOREIGN KEY (player_id)
-        REFERENCES players (player_id);
+        REFERENCES players (player_id) ON DELETE CASCADE;
 
-ALTER TABLE game ADD CONSTRAINT hero_game_constraint FOREIGN KEY (hero_id) REFERENCES heroes (hero_id);
+ALTER TABLE game ADD CONSTRAINT hero_game_constraint FOREIGN KEY (hero_id) REFERENCES heroes (hero_id) ON DELETE CASCADE;
 
 ALTER TABLE game ADD CONSTRAINT team_game_constraint FOREIGN KEY (team_id)
-        REFERENCES team (team_id);
+        REFERENCES team (team_id) ON DELETE CASCADE;
 
 ALTER TABLE game ADD CONSTRAINT sponsor_id FOREIGN KEY (sponsor_id)
-        REFERENCES sponsor (sponsor_id);
+        REFERENCES sponsor (sponsor_id) ON DELETE CASCADE;
 
-ALTER TABLE game ADD CONSTRAINT game_viewer_constraint CHECK(viewers < 1000000);
+ALTER TABLE game ADD CONSTRAINT game_viewer_constraint CHECK(viewers < 1000000) ON DELETE CASCADE;
 
 

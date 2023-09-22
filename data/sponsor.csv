@@ -1,1001 +1,1000 @@
-,sponsor_name,networth,product,is_foreign
-0,"Brown, Thompson and Howard",30138,Flour,True
-1,"Mathis, Jones and Booker",18154,Glass,False
-2,Carpenter Ltd,94869,Water,True
-3,"Smith, Cline and Hernandez",29884,Furniture,True
-4,"Smith, Robinson and Flores",40205,Newspaper,True
-5,Holmes Ltd,20480,Flour,False
-6,"Fernandez, Roach and Gilbert",93182,Coconut,False
-7,"Jackson, Stout and Nguyen",14406,Newspaper,True
-8,Ortega-Mckay,66748,Flour,True
-9,Cuevas-Michael,96775,Electricity,False
-10,Jennings PLC,32550,Pillow,True
-11,"Martinez, Choi and Brooks",25534,Electricity,True
-12,Roy-Young,97448,Pillow,False
-13,"Tran, Figueroa and Barnes",54546,Pillow,False
-14,Dawson LLC,11714,Pillow,True
-15,Fuentes-Robbins,2419,Flour,False
-16,Johnston-Walker,73273,Pillow,False
-17,Rivera PLC,22726,Newspaper,True
-18,"Campbell, Boyd and Kane",433,Water,True
-19,"Carrillo, Wright and Hayes",22433,Furniture,False
-20,"Morris, Mcclain and Perry",97070,Coconut,True
-21,Chang-Martinez,39093,Electricity,False
-22,Moore-Morrison,24625,Flour,False
-23,Thornton LLC,59660,Furniture,False
-24,Doyle LLC,17206,Furniture,False
-25,Higgins Inc,9339,Glass,True
-26,Garza and Sons,70059,Pillow,True
-27,"Chase, Merritt and Clark",28023,Furniture,True
-28,"Costa, Gillespie and Martinez",15983,Computer,True
-29,"Kim, Mcguire and Johnson",57348,Pillow,False
-30,"Kelly, Baldwin and Johnson",96260,Glass,True
-31,Jackson-Cervantes,27509,Glass,False
-32,Blair Group,21400,Newspaper,True
-33,"Blackburn, Johnson and Heath",80520,Computer,False
-34,Clarke Group,75647,Computer,False
-35,"Crane, Parker and Reyes",64048,Coconut,True
-36,Patterson-Lynch,55425,Coconut,True
-37,Randolph-Burke,91380,Computer,False
-38,"Roberts, White and Foster",94349,Water,False
-39,"Davis, Shepard and Johnson",38883,Water,False
-40,Winters-Garcia,37638,Flour,False
-41,Hall-Rodriguez,89093,Glass,True
-42,"Moore, Williams and Morgan",8335,Glass,False
-43,Tran-Stanton,78588,Water,False
-44,Scott LLC,43331,Computer,False
-45,Berry Ltd,2396,Furniture,False
-46,"Gilbert, Campbell and Medina",609,Coconut,True
-47,Brady LLC,22083,Newspaper,False
-48,"Moore, Page and Stevens",76397,Pillow,True
-49,"Kaufman, Dean and English",50291,Water,False
-50,Williams-Nixon,50905,Newspaper,False
-51,Davis-Baker,99778,Electricity,False
-52,"King, Pierce and Smith",67167,Newspaper,True
-53,"Wilson, Hart and Wagner",36064,Glass,True
-54,Howe Ltd,3254,Bottle,True
-55,Smith and Sons,56468,Newspaper,True
-56,"Holmes, Gray and Stephenson",24850,Electricity,False
-57,Ward-Gonzalez,25264,Glass,True
-58,Fields-Taylor,91294,Flour,False
-59,Henderson Ltd,68930,Glass,True
-60,Marshall PLC,46959,Furniture,False
-61,Cruz Group,93516,Water,True
-62,"Watson, Cruz and Lopez",57257,Newspaper,False
-63,"Jones, Morris and King",42957,Water,True
-64,"Marshall, Hardy and Wyatt",62967,Furniture,True
-65,Ortega PLC,37495,Water,False
-66,Gutierrez LLC,16923,Water,True
-67,Wagner Ltd,37760,Bottle,False
-68,Evans-Herrera,86361,Bottle,True
-69,Ramirez Group,46070,Glass,False
-70,"Lowery, Stewart and Greene",41941,Pillow,True
-71,Kelly-Brown,61206,Newspaper,True
-72,"Smith, Smith and Butler",90299,Water,True
-73,"Brown, Perez and Brennan",83848,Glass,False
-74,Hayes-Nelson,33313,Furniture,False
-75,Clark-Wilson,25126,Bottle,True
-76,Chavez and Sons,60909,Bottle,True
-77,Taylor LLC,2140,Coconut,True
-78,Lopez and Sons,38998,Computer,False
-79,"Ward, Mercado and Graham",19623,Water,False
-80,"Stone, Carpenter and Goodwin",89298,Flour,False
-81,Garcia-Wagner,50691,Coconut,True
-82,Anderson Group,5578,Glass,True
-83,"White, Krause and Brown",70257,Bottle,False
-84,Campos LLC,37717,Water,False
-85,Hill Group,60725,Furniture,True
-86,Holder-Santiago,42060,Flour,True
-87,Rogers-Perkins,53601,Glass,False
-88,Baker LLC,12410,Glass,True
-89,"Harper, Shepherd and Wilson",31578,Electricity,True
-90,Allison-Davis,39069,Glass,False
-91,Welch and Sons,61396,Glass,True
-92,Flowers-Lopez,91389,Water,False
-93,Rivera and Sons,14657,Newspaper,True
-94,"Ramsey, Erickson and Espinoza",352,Bottle,True
-95,Christensen-Cox,79683,Pillow,True
-96,Miller-Lawson,8306,Electricity,True
-97,Johnson Ltd,1526,Glass,True
-98,"Rodriguez, Smith and Kelley",33830,Glass,False
-99,Shepherd-Hughes,61928,Newspaper,False
-100,Jenkins Ltd,42711,Coconut,False
-101,Walker Ltd,54145,Coconut,True
-102,"Welch, Harris and Keller",71929,Glass,True
-103,Anderson-Rodriguez,19642,Newspaper,True
-104,"Henderson, Lopez and Reed",91582,Flour,True
-105,"Bowers, Hogan and Johnson",27065,Furniture,False
-106,Kennedy and Sons,74521,Pillow,False
-107,Romero-Rodriguez,98122,Pillow,True
-108,"Edwards, Wheeler and Salazar",27498,Newspaper,True
-109,Cruz-Peterson,90129,Flour,False
-110,Rivera-Johnson,68893,Coconut,True
-111,"Cook, Bernard and Nelson",54811,Glass,False
-112,Evans-Johnson,95965,Coconut,True
-113,"Rodriguez, Stewart and Chaney",86191,Electricity,True
-114,Mendoza and Sons,21727,Pillow,True
-115,Murphy PLC,73587,Coconut,False
-116,"Brown, Thomas and Villarreal",76359,Glass,True
-117,Young-Martinez,42439,Furniture,False
-118,Jacobs-Casey,70470,Bottle,False
-119,Williams Inc,42551,Newspaper,True
-120,Campbell-Hansen,97191,Bottle,True
-121,Hernandez Ltd,96728,Glass,True
-122,Hernandez and Sons,68929,Pillow,False
-123,"Jones, Maldonado and Rodriguez",20602,Furniture,True
-124,"Gross, Horton and Chapman",28426,Coconut,True
-125,Hamilton Ltd,48847,Glass,False
-126,"Moody, Miller and Warner",26338,Newspaper,False
-127,Castro and Sons,64028,Computer,False
-128,"Wilson, Martin and Bennett",81310,Pillow,False
-129,Wolf Group,63898,Coconut,True
-130,Davis-Thompson,23721,Pillow,False
-131,Jones Ltd,75940,Pillow,False
-132,Fletcher Group,46616,Flour,False
-133,Miller-Roberts,74242,Pillow,False
-134,Sosa Group,20118,Electricity,True
-135,Miller-Miranda,66171,Electricity,True
-136,"Espinoza, Cooper and Watkins",8311,Flour,False
-137,"Newton, Johnson and Weaver",65335,Water,True
-138,Nelson-Butler,76178,Coconut,True
-139,Parsons Group,97803,Coconut,False
-140,James-Fisher,7489,Coconut,False
-141,"Miller, Lin and Baker",7969,Pillow,False
-142,Morrison LLC,52944,Flour,True
-143,"Erickson, Rodriguez and Nguyen",3818,Water,True
-144,Bird-Carrillo,44089,Furniture,False
-145,Thomas-Petty,43337,Newspaper,True
-146,Kelley and Sons,19760,Electricity,False
-147,"Boyd, Johnson and Brown",14156,Water,True
-148,"Davidson, Adams and Doyle",67449,Computer,True
-149,Ho Group,15435,Newspaper,True
-150,Christian LLC,39830,Newspaper,True
-151,Gibson LLC,33157,Glass,True
-152,Brown Group,24486,Coconut,True
-153,"Gonzales, Clark and Walters",55481,Pillow,True
-154,Wood and Sons,42710,Flour,True
-155,Monroe-Wong,1815,Electricity,True
-156,White-Fuller,18453,Water,True
-157,Coleman Group,19266,Newspaper,False
-158,Sanchez-Castillo,66952,Glass,True
-159,"Thompson, Garcia and Anderson",98806,Pillow,False
-160,Mendez Inc,85916,Water,True
-161,Morgan and Sons,5451,Coconut,False
-162,"Burns, Daniels and Vega",58474,Bottle,True
-163,Petty-Robinson,55491,Electricity,True
-164,Anderson Ltd,29624,Bottle,True
-165,Mendoza Group,93402,Bottle,False
-166,Smith and Sons,85085,Furniture,False
-167,Burnett LLC,69527,Water,False
-168,Miller-Davila,51945,Bottle,True
-169,"Forbes, Travis and Contreras",46223,Newspaper,True
-170,"Foster, Bates and Scott",18307,Flour,False
-171,Miller Group,31399,Coconut,True
-172,Bradley Ltd,11024,Bottle,False
-173,Michael and Sons,14642,Glass,False
-174,"Stevens, Mills and Hopkins",12169,Computer,False
-175,Stephenson Inc,48174,Computer,True
-176,Harvey PLC,30807,Flour,True
-177,Brown Ltd,15436,Glass,True
-178,"Perez, Kelley and Reynolds",3529,Computer,False
-179,Solis-Mathews,46738,Newspaper,True
-180,Sanchez LLC,64182,Newspaper,False
-181,Young-Mitchell,67696,Newspaper,True
-182,Bautista PLC,74453,Coconut,True
-183,"Smith, Harvey and Winters",75420,Furniture,False
-184,Garcia Inc,51689,Furniture,True
-185,Torres Group,87931,Furniture,False
-186,Thompson-Cook,72574,Water,True
-187,Porter Group,55711,Coconut,True
-188,Ali and Sons,6901,Furniture,True
-189,"Taylor, Thompson and Fletcher",36733,Water,True
-190,Ryan-Stevens,17712,Flour,False
-191,"Thomas, Swanson and Brooks",38669,Pillow,True
-192,Casey Group,4785,Coconut,False
-193,Black Group,77307,Flour,False
-194,"Lopez, Shaw and Johnston",86101,Bottle,False
-195,Whitehead PLC,90420,Pillow,True
-196,Robinson-Ferguson,59545,Bottle,True
-197,Dominguez Group,31217,Electricity,False
-198,"Brown, Roberts and Foster",8434,Furniture,True
-199,"Lee, Mullen and Burns",13806,Glass,False
-200,"Johnson, Underwood and Morales",98146,Coconut,True
-201,Khan LLC,5956,Pillow,True
-202,Villa LLC,50281,Electricity,False
-203,Gilbert-Franklin,32956,Computer,False
-204,Wright PLC,82126,Pillow,True
-205,Yang-Jones,48150,Electricity,False
-206,Smith-Cox,69170,Glass,True
-207,Kennedy-Young,47743,Water,True
-208,"Davis, Johnson and Leon",43736,Flour,True
-209,"Johnson, Jones and Schultz",32287,Flour,True
-210,Armstrong and Sons,56156,Pillow,True
-211,Newton-Mitchell,9993,Coconut,True
-212,Blevins LLC,50403,Furniture,False
-213,Pope-Rocha,32551,Computer,False
-214,Jimenez Group,72313,Computer,True
-215,"Ramos, Smith and Shaw",18693,Bottle,False
-216,"Vargas, Dunn and Jimenez",9608,Coconut,False
-217,Mills-Sims,11379,Flour,False
-218,Johnson Group,17392,Newspaper,True
-219,"Cohen, White and Hall",26771,Coconut,False
-220,Davidson-Herrera,58377,Newspaper,True
-221,Hodge LLC,17369,Flour,False
-222,Bell-Jones,17826,Bottle,True
-223,Rodgers-Sandoval,49728,Furniture,True
-224,"Watson, Khan and Rivas",81269,Glass,True
-225,Wilson-House,92098,Glass,True
-226,"Glover, Wilson and Jackson",65686,Coconut,False
-227,Cruz LLC,91981,Water,True
-228,Hanna-Pugh,90378,Pillow,True
-229,"Maldonado, Kelly and Mckay",45300,Furniture,False
-230,"Gibson, Park and Mcdonald",57241,Pillow,False
-231,Gilbert Ltd,61802,Glass,True
-232,James PLC,56952,Pillow,True
-233,Figueroa Ltd,68755,Bottle,False
-234,Murphy and Sons,99122,Flour,False
-235,Salazar-Dunn,83445,Newspaper,True
-236,"Brewer, Harrington and Stokes",84538,Computer,True
-237,Deleon Ltd,33083,Electricity,True
-238,Miller Ltd,26091,Pillow,False
-239,"Lopez, Walker and Grant",99662,Furniture,False
-240,"Haney, Stevenson and Cole",49162,Flour,True
-241,"Peterson, Howard and Smith",63018,Water,True
-242,Shah-Hopkins,31847,Coconut,True
-243,"Foster, Luna and Williams",2860,Electricity,True
-244,Martin-Mcfarland,24623,Furniture,True
-245,"Pacheco, Galloway and Dean",85017,Computer,False
-246,Wilson Group,24505,Computer,True
-247,Castillo LLC,2382,Pillow,False
-248,Smith-Williams,66391,Newspaper,False
-249,Livingston-Walker,26800,Electricity,True
-250,"Taylor, Adkins and Jackson",48105,Computer,True
-251,Mcdaniel Inc,90438,Bottle,True
-252,"Guerrero, Klein and Reynolds",25679,Glass,False
-253,Burton LLC,40915,Water,True
-254,Jackson LLC,33813,Flour,True
-255,"Taylor, Schmidt and Bernard",46928,Electricity,False
-256,Hayes Ltd,20897,Computer,False
-257,Davis Group,88169,Coconut,False
-258,White-Smith,67415,Glass,False
-259,Garner-Richard,78815,Newspaper,False
-260,Jordan PLC,80283,Flour,True
-261,"Olson, Thomas and Rich",68772,Glass,False
-262,Austin-Lopez,69143,Glass,True
-263,Davis and Sons,31955,Coconut,True
-264,Herrera Ltd,49553,Water,True
-265,Stevens-Moore,3021,Coconut,True
-266,"Castillo, Morales and Scott",85466,Bottle,False
-267,Best Group,64416,Newspaper,True
-268,Newman-Nielsen,26120,Glass,False
-269,Smith LLC,14029,Pillow,True
-270,Gutierrez Ltd,56929,Flour,False
-271,Arroyo Group,74683,Flour,False
-272,Carr-Johnson,484,Pillow,True
-273,Martinez PLC,41090,Coconut,False
-274,Hanson-Washington,6619,Coconut,False
-275,"Chambers, Quinn and Brown",13689,Water,True
-276,Acevedo Ltd,84445,Glass,False
-277,Young and Sons,66322,Computer,False
-278,Hurst Inc,70541,Water,False
-279,Hayes-Ford,70203,Flour,False
-280,Patterson-Wood,46291,Glass,True
-281,"Lopez, Figueroa and Rivera",81153,Coconut,False
-282,"Butler, Willis and Johnson",64673,Bottle,False
-283,Fitzgerald and Sons,93597,Computer,True
-284,Jones Group,16275,Flour,False
-285,Turner Inc,41563,Water,True
-286,Knapp-Chavez,58543,Flour,True
-287,"Conley, Morse and Perez",92105,Electricity,False
-288,Hunt LLC,27256,Furniture,False
-289,Franco-Elliott,59448,Pillow,True
-290,"Mcdaniel, Smith and Black",58708,Water,False
-291,"Byrd, Grant and Jones",75366,Electricity,True
-292,Newton and Sons,21927,Bottle,False
-293,Fleming-Duffy,46112,Furniture,True
-294,"White, Andrews and Davis",19768,Coconut,True
-295,Ortega-Martin,55861,Furniture,True
-296,Carroll-Matthews,98048,Coconut,True
-297,Murphy-Phillips,42513,Flour,True
-298,Price-Jones,46064,Flour,True
-299,"Scott, Torres and Schneider",11221,Glass,False
-300,Henderson-Juarez,5997,Bottle,False
-301,Gomez Inc,68565,Computer,True
-302,Kemp Ltd,6658,Glass,False
-303,"Pearson, Bennett and Contreras",84738,Newspaper,True
-304,Hamilton-Chapman,66345,Computer,True
-305,Lee-Deleon,51471,Water,False
-306,"Gibson, Burns and Henderson",49248,Electricity,False
-307,Powell and Sons,15688,Bottle,False
-308,"Hendrix, King and Young",65881,Computer,True
-309,"Curtis, Hart and Tran",19402,Newspaper,False
-310,Moran LLC,16519,Pillow,True
-311,Tanner LLC,43322,Flour,False
-312,"Bruce, Ruiz and Arnold",60093,Pillow,True
-313,Santiago Ltd,64921,Glass,False
-314,Nichols Group,91720,Furniture,False
-315,Robertson LLC,65822,Furniture,True
-316,Miller and Sons,40059,Coconut,False
-317,Griffin Ltd,72459,Pillow,True
-318,Andrews and Sons,62605,Coconut,False
-319,Hale-Conner,85467,Water,True
-320,Flores PLC,64477,Water,False
-321,Richardson PLC,19865,Water,False
-322,Robertson and Sons,84497,Bottle,False
-323,"Walker, Price and Williams",20478,Computer,False
-324,Martin Ltd,28509,Furniture,False
-325,Wright and Sons,60519,Glass,True
-326,"Bradford, Dennis and Smith",93043,Pillow,False
-327,Tran-Pratt,85587,Newspaper,False
-328,Robinson-Martinez,24156,Electricity,True
-329,"Peck, Liu and White",1886,Water,True
-330,Ayala PLC,92674,Pillow,True
-331,"Velez, Scott and Frazier",95771,Newspaper,True
-332,"Thomas, Paul and White",9704,Newspaper,False
-333,"Thompson, Davis and Price",3335,Computer,False
-334,Brock Ltd,78393,Electricity,True
-335,"Davis, Terry and Ortiz",2932,Coconut,True
-336,"Barker, Lawson and Adams",65941,Electricity,True
-337,Johnston LLC,96529,Newspaper,True
-338,"Schroeder, Dixon and Waters",86050,Coconut,True
-339,Anderson Inc,87996,Furniture,True
-340,Kramer-Alexander,82617,Glass,True
-341,"Orr, Robles and Santiago",55852,Newspaper,False
-342,Gray-Dunn,14374,Newspaper,False
-343,"Love, Little and Martin",32590,Newspaper,False
-344,Santiago Group,83195,Bottle,True
-345,"Vaughn, Cortez and Sparks",22159,Newspaper,True
-346,Greene LLC,16549,Electricity,True
-347,"Robinson, Carney and Martinez",23396,Flour,True
-348,Henderson-Gonzalez,33426,Flour,False
-349,Diaz and Sons,33280,Coconut,True
-350,Long-May,91522,Coconut,False
-351,"Bentley, Miller and Lopez",23861,Electricity,True
-352,"Rodriguez, Pitts and Allen",9546,Glass,True
-353,Levy Group,52152,Furniture,False
-354,Hunt PLC,97993,Flour,False
-355,Wilson-Jones,64497,Electricity,True
-356,Smith PLC,55433,Electricity,True
-357,Brown Inc,49206,Computer,False
-358,Lewis-Jacobs,5512,Pillow,False
-359,Brown and Sons,72119,Coconut,False
-360,English LLC,84086,Bottle,True
-361,"Beck, Miller and Baker",38328,Coconut,False
-362,"Holder, Berger and Maxwell",35986,Pillow,False
-363,Roberts-Collins,97758,Flour,True
-364,Smith and Sons,61006,Flour,True
-365,"Bryant, Robbins and Fox",15574,Newspaper,False
-366,Powell-Davis,26789,Electricity,True
-367,Nelson-Tucker,17101,Pillow,True
-368,Bush-Gibson,17671,Bottle,False
-369,"Johnson, Bowman and Blake",64856,Coconut,True
-370,Murphy-Cox,80307,Coconut,True
-371,Hodges-Levine,8275,Water,True
-372,Smith Ltd,65537,Newspaper,False
-373,Townsend PLC,16439,Furniture,True
-374,Ray-Medina,25954,Water,False
-375,Knight-Sharp,2385,Coconut,False
-376,King-Blake,65549,Water,False
-377,Ramsey-Crawford,5500,Newspaper,True
-378,"Scott, Schmidt and Williams",22127,Water,True
-379,Graham Ltd,33303,Bottle,False
-380,Phillips Ltd,10519,Newspaper,True
-381,"Dawson, Meyers and Moyer",78218,Bottle,True
-382,Olson PLC,23488,Coconut,False
-383,"Day, Dixon and Anderson",16926,Pillow,True
-384,Paul and Sons,91628,Electricity,True
-385,Riggs PLC,98128,Pillow,False
-386,Jackson-Martinez,24330,Electricity,False
-387,Reid Inc,18197,Water,True
-388,Jackson Group,56931,Coconut,False
-389,Johnson PLC,97183,Pillow,False
-390,"Bates, Hodge and Brown",88876,Flour,False
-391,Williams-Jefferson,23590,Water,False
-392,Woods and Sons,46472,Bottle,True
-393,"Bradley, Reed and Thornton",76883,Glass,False
-394,"Edwards, Mercer and Myers",6985,Flour,False
-395,"Garza, West and Johnson",13473,Flour,False
-396,Hall-Larson,31016,Bottle,False
-397,Rangel-Brown,13040,Furniture,False
-398,Gregory LLC,83383,Computer,False
-399,Schaefer-Johnson,64727,Flour,True
-400,Hooper LLC,70228,Glass,True
-401,Vasquez and Sons,76643,Electricity,False
-402,"Michael, Johnson and Johnson",22355,Newspaper,False
-403,Taylor Group,27582,Flour,True
-404,Washington-Mccarthy,46042,Computer,False
-405,Romero-King,3039,Pillow,False
-406,Peterson Group,87647,Computer,False
-407,Strickland-Cordova,84917,Furniture,False
-408,Diaz Inc,8860,Glass,True
-409,Martin-Bass,54148,Flour,True
-410,Jackson LLC,64207,Computer,False
-411,Fisher-Johnson,82772,Coconut,True
-412,Watkins Ltd,89285,Bottle,False
-413,Davis and Sons,39077,Electricity,True
-414,Chavez Group,58051,Furniture,True
-415,Miller Group,74832,Water,True
-416,Lopez and Sons,13181,Water,True
-417,Hall Inc,78070,Glass,True
-418,Abbott-Johnson,32991,Bottle,True
-419,"Peterson, Williams and Lopez",20468,Glass,False
-420,Kramer LLC,8716,Glass,False
-421,Welch-Sweeney,93777,Newspaper,False
-422,"Hansen, Glass and Ray",39932,Water,True
-423,Garner Group,9359,Computer,True
-424,Pittman-Osborn,65137,Coconut,True
-425,Harmon Ltd,24978,Furniture,True
-426,West-King,44525,Water,True
-427,"Bush, Thomas and Hayes",37649,Coconut,False
-428,Stephens-Henry,36208,Computer,True
-429,Barry Group,48598,Computer,False
-430,"Harris, Wiggins and Howard",27009,Electricity,True
-431,Yu Inc,64400,Pillow,False
-432,"Edwards, Ramos and Smith",32789,Computer,False
-433,Clark-Malone,78028,Furniture,True
-434,Williams-Roberts,5783,Computer,False
-435,Marks-Barron,47029,Glass,False
-436,Gilbert Inc,68633,Bottle,False
-437,Johnson Ltd,74325,Coconut,True
-438,Davis-Williams,79804,Flour,False
-439,"Cooley, House and Levine",51478,Flour,True
-440,"Butler, Delgado and Lawrence",26499,Coconut,True
-441,Phillips-Stephens,13162,Computer,True
-442,Moore-English,74824,Newspaper,True
-443,"Lee, Brooks and Fox",88341,Furniture,False
-444,Martinez-Lowe,15450,Pillow,True
-445,Stevens Group,10424,Furniture,False
-446,Thomas-Thomas,5766,Pillow,False
-447,Hamilton and Sons,66862,Coconut,False
-448,Goodman Group,78361,Bottle,True
-449,Hamilton and Sons,46318,Electricity,False
-450,Clark-Roberts,62391,Glass,True
-451,"Davis, Sanchez and Payne",88747,Electricity,True
-452,Gonzales-Elliott,30837,Pillow,False
-453,"Wagner, Carroll and Erickson",38782,Electricity,True
-454,Rios-Faulkner,85539,Flour,True
-455,Diaz-Casey,31164,Newspaper,True
-456,Baker-Bishop,74204,Bottle,False
-457,Horn PLC,77981,Glass,True
-458,"Jones, Jones and Terry",28830,Furniture,False
-459,Hayes-Brock,35703,Flour,True
-460,"Rodriguez, Fisher and Vaughan",25066,Coconut,True
-461,Ferguson-Decker,51971,Flour,False
-462,Dunn PLC,203,Flour,True
-463,"Mitchell, Gibson and Patton",47579,Computer,True
-464,"Gamble, Ortiz and Dunn",54329,Computer,True
-465,Brown Group,96994,Bottle,True
-466,"Lee, Fisher and Nguyen",81581,Bottle,False
-467,"Duncan, Johnson and Fernandez",66034,Bottle,True
-468,Black-Ingram,53349,Computer,False
-469,Castro-Le,66487,Newspaper,True
-470,Jackson-Clark,88327,Bottle,False
-471,"Phillips, Griffin and Knight",55928,Bottle,False
-472,"Case, Knapp and Miller",4581,Computer,True
-473,Jones-Carlson,88136,Furniture,False
-474,Thomas Group,75031,Coconut,False
-475,Morales-Moore,69053,Furniture,False
-476,"Mckay, Smith and Neal",28169,Flour,False
-477,Richardson PLC,82842,Computer,True
-478,Scott Ltd,72298,Electricity,True
-479,Ward-Cline,35738,Computer,True
-480,"Randall, Freeman and Mcfarland",49249,Flour,False
-481,Romero-Becker,60993,Newspaper,True
-482,Briggs Inc,23160,Flour,False
-483,Smith-Thompson,6691,Pillow,True
-484,"Bowers, Wu and Adkins",77612,Coconut,False
-485,Baker-Oneill,75012,Electricity,False
-486,Rios LLC,36803,Computer,False
-487,Alvarez-Lara,66039,Newspaper,False
-488,Espinoza Ltd,23708,Flour,False
-489,Shaw PLC,55735,Flour,True
-490,"Pierce, Young and Burton",27761,Electricity,False
-491,Sims and Sons,39804,Flour,False
-492,Kirby Group,20919,Pillow,True
-493,"Eaton, Fernandez and Warner",59470,Flour,False
-494,Shaw-Williams,58443,Flour,False
-495,"Wang, Holt and Yang",45632,Computer,False
-496,Sharp-Walker,66766,Computer,False
-497,Smith-Martin,76076,Bottle,False
-498,Rios-Potts,57718,Computer,True
-499,Mitchell-Hicks,97153,Furniture,False
-500,"Rice, Swanson and Johnson",64164,Flour,True
-501,"Wolf, Barnett and Jones",48130,Bottle,False
-502,Torres-Lowe,64053,Electricity,True
-503,"Miller, Webster and Rivera",28026,Pillow,True
-504,Massey-Lewis,68435,Newspaper,False
-505,"Garza, Smith and Daniels",58036,Computer,True
-506,Li PLC,39303,Water,False
-507,"Brown, Copeland and White",32664,Bottle,False
-508,Thompson Inc,46388,Water,True
-509,House-Harrington,92913,Water,False
-510,"Edwards, Hamilton and Salinas",96103,Glass,True
-511,Marks Inc,10260,Newspaper,True
-512,Cook and Sons,88853,Electricity,False
-513,Wright PLC,95567,Newspaper,False
-514,Adams LLC,28218,Furniture,False
-515,"Young, Thomas and Garza",80420,Glass,True
-516,"Carr, Davis and Pierce",92850,Flour,False
-517,White-Bryant,56960,Electricity,True
-518,Adams-Mora,95032,Water,True
-519,Perez and Sons,6436,Furniture,False
-520,Bradley-Jones,82138,Water,True
-521,Hernandez-Hodge,81587,Electricity,False
-522,Carroll-Gilmore,66556,Pillow,False
-523,Wang PLC,5951,Computer,False
-524,Walsh-Chapman,84117,Newspaper,False
-525,"Krueger, Thompson and Ayers",76699,Coconut,True
-526,Taylor-Walker,3917,Newspaper,False
-527,"Evans, Gonzalez and David",14835,Electricity,True
-528,Perez Group,26236,Furniture,False
-529,Johnson Group,6776,Computer,False
-530,Compton PLC,47044,Computer,False
-531,"Cohen, Smith and Rivera",8509,Pillow,False
-532,Osborne Ltd,35944,Coconut,False
-533,Johnson-Wyatt,66246,Computer,False
-534,"Reid, Gray and Welch",20204,Pillow,False
-535,Sanders Ltd,79745,Glass,True
-536,Robinson Ltd,56295,Coconut,True
-537,Lopez Ltd,47108,Newspaper,False
-538,Long and Sons,79074,Glass,True
-539,Long-Thomas,998,Glass,True
-540,Goodman-Jenkins,11607,Flour,False
-541,"Delacruz, Beltran and Warren",81538,Newspaper,False
-542,"Cobb, Maldonado and Shelton",70495,Furniture,False
-543,Martin-Solis,52965,Computer,True
-544,Clark PLC,79632,Pillow,True
-545,Hunter Inc,16533,Coconut,True
-546,"Herrera, Hines and Berg",71112,Newspaper,True
-547,Reid-Campbell,81150,Electricity,True
-548,Chen-Rodgers,36348,Glass,True
-549,Johnson-Hill,92026,Computer,True
-550,Ballard-Gray,53275,Water,False
-551,Miles-Valdez,91529,Water,True
-552,Lane-Williams,79371,Computer,False
-553,Wolf Group,4436,Glass,False
-554,Lawrence-Miller,62698,Glass,False
-555,"Braun, Patton and Peters",55396,Bottle,False
-556,Moss-Rivera,79572,Furniture,False
-557,Parrish-White,58734,Glass,False
-558,Terry-Wells,34431,Glass,False
-559,Nelson Inc,23632,Furniture,False
-560,Mendoza Ltd,93109,Water,False
-561,Molina-Curry,10092,Glass,False
-562,Chavez-Watson,42510,Water,True
-563,"Lucero, Montoya and Mccarty",87732,Water,False
-564,Franklin-Mullen,12477,Electricity,False
-565,"Perkins, Martinez and Jordan",19047,Water,True
-566,"Jones, Stark and Freeman",9508,Coconut,True
-567,"Price, Schultz and Cochran",70816,Bottle,False
-568,Glass-Armstrong,4209,Computer,False
-569,Green-Strong,88758,Computer,False
-570,Ellis-Fischer,26519,Electricity,False
-571,"Beard, Perez and Lane",47784,Coconut,False
-572,Vaughn-Ramsey,97151,Furniture,True
-573,"Ryan, Guerrero and Smith",20743,Coconut,False
-574,"Stevens, Gamble and Miller",4131,Furniture,True
-575,Mayo PLC,6017,Pillow,False
-576,Green-Hudson,34550,Computer,True
-577,"Valdez, Hodges and Keller",83099,Bottle,True
-578,"Moreno, Garza and Washington",28611,Water,False
-579,"Stevens, Cole and Bray",90183,Water,True
-580,Singh-Johnson,73415,Electricity,True
-581,Baker Group,98456,Newspaper,True
-582,"Allen, Ray and Garcia",17872,Furniture,False
-583,Mitchell Inc,64751,Water,True
-584,Roy Ltd,73507,Water,True
-585,Williams-Oconnor,83678,Furniture,False
-586,"Mitchell, Dougherty and Miles",91782,Pillow,True
-587,"Graham, Pace and Carpenter",1725,Coconut,False
-588,Harrell-Baker,92042,Bottle,False
-589,Williamson PLC,5647,Pillow,True
-590,Carr-Miller,99451,Water,False
-591,Rodriguez Group,51143,Newspaper,False
-592,Tran PLC,28950,Computer,False
-593,Reeves-Schultz,84133,Glass,False
-594,Kirby LLC,4086,Water,True
-595,Scott-Green,79279,Coconut,True
-596,"Ellis, Rodgers and Alexander",15127,Newspaper,False
-597,Owens-Ferguson,33099,Furniture,False
-598,Martinez and Sons,10127,Water,True
-599,Martinez PLC,3690,Bottle,False
-600,Davis-Merritt,72817,Water,False
-601,Walsh Group,86559,Electricity,True
-602,Richardson Ltd,66773,Pillow,True
-603,"Hicks, Harmon and Hill",12141,Furniture,False
-604,George Inc,43724,Water,True
-605,Smith-Rivas,37869,Newspaper,True
-606,Aguilar-Johnson,46382,Furniture,True
-607,"Calhoun, Wilson and Wilson",72234,Flour,False
-608,Miller Group,11203,Flour,True
-609,"Pacheco, Watson and Huffman",68336,Furniture,True
-610,Baldwin-Crawford,33072,Newspaper,False
-611,Hart and Sons,39026,Pillow,False
-612,Washington-Burke,74946,Furniture,True
-613,Warren-Garcia,4275,Water,False
-614,Norman Group,27287,Water,True
-615,Martin-Cook,88991,Computer,True
-616,Davenport-Baker,32200,Newspaper,True
-617,"Curtis, Davis and Robinson",85195,Pillow,False
-618,Myers-Murphy,87699,Computer,False
-619,Adams LLC,23784,Pillow,True
-620,"Perry, Aguilar and Goodwin",11028,Coconut,False
-621,"Mcconnell, Martinez and Park",36109,Electricity,True
-622,Martinez and Sons,65735,Bottle,True
-623,"Bryan, Berry and Smith",68586,Flour,True
-624,"Sanchez, Wilson and Hubbard",3728,Bottle,False
-625,Adams Group,22739,Pillow,True
-626,Gill-Smith,76090,Bottle,True
-627,Hendrix-Gallegos,65183,Newspaper,False
-628,"Moore, Brown and Fox",61574,Furniture,True
-629,"Reid, Kelley and Owens",62871,Flour,False
-630,Mcclain and Sons,24890,Water,True
-631,"Hahn, Ross and Campbell",93302,Bottle,False
-632,"Esparza, Barnes and Herman",15238,Computer,True
-633,Wagner-Smith,31740,Coconut,True
-634,Thompson PLC,60749,Glass,True
-635,Jones LLC,92166,Pillow,True
-636,"Chaney, Hardin and Clark",238,Furniture,False
-637,"Rios, Williams and Holmes",97123,Bottle,True
-638,Stevenson-Strong,89204,Water,True
-639,Foster Group,20140,Electricity,True
-640,Reed-Peterson,88454,Flour,True
-641,Roberts LLC,54560,Flour,False
-642,"Fisher, Underwood and Phillips",30500,Bottle,False
-643,Patterson PLC,79796,Furniture,True
-644,"Nguyen, Clark and Kerr",48724,Bottle,False
-645,Quinn-Morgan,1011,Newspaper,True
-646,Contreras Inc,33983,Glass,True
-647,"Gonzales, Rojas and Nguyen",83185,Electricity,False
-648,"Chambers, Allen and Bishop",40683,Computer,True
-649,"Garner, Humphrey and Giles",78982,Coconut,False
-650,Wolfe-Johnson,22942,Glass,True
-651,Rogers Ltd,69548,Glass,True
-652,Kelly Group,45380,Water,True
-653,Griffin-Adams,43990,Furniture,True
-654,Smith-Bowers,74752,Electricity,False
-655,"Hudson, Fisher and Murray",99287,Furniture,True
-656,Lee-Lawrence,90444,Newspaper,True
-657,Tran and Sons,14822,Flour,False
-658,Harris Ltd,28583,Flour,False
-659,Knight-Schmitt,46994,Electricity,False
-660,White PLC,92129,Water,True
-661,"Martin, Giles and Joyce",47719,Water,True
-662,Martin-Diaz,68576,Computer,True
-663,Parsons-Mcdonald,36825,Bottle,True
-664,Avila-Navarro,78718,Pillow,False
-665,Jarvis PLC,22764,Flour,False
-666,"Pacheco, Diaz and Lewis",15734,Furniture,True
-667,Stewart-Cooper,43932,Coconut,False
-668,Ball PLC,883,Furniture,False
-669,"Dominguez, Pierce and Evans",41169,Coconut,False
-670,"Delacruz, Kennedy and Mcpherson",71989,Newspaper,True
-671,Thompson-Little,28039,Furniture,True
-672,Turner-Harrison,59388,Flour,True
-673,"Beck, Carpenter and Patterson",93931,Flour,False
-674,"Frye, White and Stewart",26481,Glass,True
-675,Brown Ltd,31262,Water,False
-676,Reyes-Wang,66451,Water,False
-677,"Adams, Russell and Mckenzie",45092,Furniture,True
-678,Phillips and Sons,8789,Coconut,False
-679,"Hill, Vega and Contreras",33254,Bottle,True
-680,Cole-Simpson,28931,Electricity,False
-681,"Tucker, Pierce and Dunn",20025,Furniture,False
-682,Freeman Group,51529,Pillow,False
-683,"Harris, Rios and Barry",82751,Coconut,False
-684,Sherman-Leblanc,80500,Flour,True
-685,Payne-Carlson,80924,Glass,False
-686,Hanson-Miller,8647,Bottle,True
-687,Chaney-Owen,35509,Bottle,False
-688,"Andrews, Dickerson and Snyder",18961,Glass,False
-689,Gates and Sons,28913,Computer,False
-690,Alvarado and Sons,58813,Newspaper,True
-691,"Higgins, Valencia and Phillips",33116,Flour,True
-692,"Jenkins, Christian and Myers",98053,Pillow,False
-693,"Mcfarland, Ramirez and Gonzales",58857,Bottle,False
-694,Bruce-Sims,73205,Furniture,False
-695,Miller and Sons,44487,Coconut,True
-696,Friedman PLC,4261,Water,False
-697,Henderson Ltd,88975,Flour,False
-698,"Willis, Parker and Ferguson",58740,Water,False
-699,"Stanley, Watts and Shah",16117,Computer,False
-700,Rodriguez-Kelly,84271,Electricity,False
-701,Harris-Coleman,54876,Pillow,True
-702,"Smith, Mckay and Woods",92044,Bottle,True
-703,"Hinton, Rodriguez and Flores",73102,Computer,True
-704,Frazier-Morales,10103,Bottle,True
-705,Brown-Hernandez,31515,Electricity,True
-706,"Wilson, Lane and Roberts",79335,Bottle,True
-707,Thompson-Porter,90733,Water,True
-708,"Mckee, Odonnell and Parker",78020,Newspaper,False
-709,Roberson-Porter,11245,Pillow,False
-710,Harmon-Jenkins,28163,Furniture,False
-711,"Fowler, Fletcher and Powers",89973,Bottle,False
-712,George-Daniels,95265,Computer,False
-713,"Kemp, Cox and Brown",5407,Electricity,False
-714,Mcguire-Shah,27788,Water,False
-715,Brown and Sons,37812,Coconut,False
-716,Richardson LLC,57772,Bottle,True
-717,Weber LLC,6034,Computer,True
-718,Reid-Wilson,62561,Pillow,False
-719,Velez-Anderson,44579,Furniture,False
-720,Baker-Ellis,36570,Computer,True
-721,King Group,59520,Coconut,False
-722,"Combs, Hess and Hall",48993,Newspaper,False
-723,Armstrong-Wright,11699,Newspaper,False
-724,Wilson LLC,729,Pillow,True
-725,"White, Hart and Zamora",48531,Electricity,False
-726,Mata-Kemp,36663,Coconut,False
-727,"Robinson, Chavez and Anderson",51930,Computer,True
-728,"Wright, Douglas and Byrd",18419,Computer,False
-729,"Robinson, Young and Waters",9239,Glass,True
-730,"Williams, Lewis and Peterson",76474,Bottle,True
-731,"Burns, Smith and Obrien",41444,Flour,True
-732,Bailey-Cunningham,64347,Pillow,False
-733,"Williams, Calhoun and Foster",36303,Electricity,False
-734,Hines Ltd,35053,Computer,False
-735,"Mccoy, Fisher and Smith",67921,Pillow,True
-736,Holt Group,574,Computer,True
-737,"Garcia, Bates and Morris",57520,Flour,True
-738,"Gibson, Johnson and Fisher",33277,Newspaper,False
-739,"Long, Pearson and Casey",38921,Coconut,True
-740,"Arnold, Myers and Paul",14373,Water,False
-741,Martinez Ltd,4896,Newspaper,False
-742,Jones PLC,23682,Coconut,False
-743,Fowler Ltd,48300,Glass,True
-744,Hayes and Sons,87926,Glass,False
-745,Lloyd and Sons,40344,Bottle,True
-746,Powell PLC,26911,Newspaper,True
-747,Duran PLC,23052,Newspaper,False
-748,"Aguilar, Hall and Rojas",4982,Pillow,True
-749,Jenkins PLC,18605,Bottle,False
-750,Washington-Miller,76782,Water,False
-751,"Duke, Ferguson and Mora",2156,Glass,True
-752,Rowland Group,29616,Electricity,False
-753,Hunt-Lynn,98862,Bottle,True
-754,"Gates, Obrien and Martinez",84577,Flour,False
-755,Small LLC,222,Furniture,False
-756,Miller-Rodriguez,33249,Flour,True
-757,"Perez, Hubbard and Hanson",25648,Electricity,True
-758,"Mann, Barron and Bradley",41564,Pillow,False
-759,Baker-Townsend,20763,Flour,True
-760,Todd-Hays,19758,Electricity,True
-761,"Stein, Sanchez and Price",84714,Pillow,False
-762,Horton PLC,84178,Bottle,False
-763,Lee-Smith,31939,Flour,True
-764,Preston LLC,8080,Glass,True
-765,"Garza, Benton and Gilbert",41697,Flour,True
-766,Diaz and Sons,59615,Furniture,True
-767,Gomez-Anderson,8541,Coconut,True
-768,Fleming-Crawford,78263,Computer,True
-769,"Greene, Griffin and Willis",98110,Coconut,False
-770,"Ballard, Harrison and Meyer",36040,Electricity,True
-771,"Burton, Vargas and Hernandez",40802,Bottle,True
-772,Hanson LLC,73627,Electricity,False
-773,"Villanueva, Adkins and Kennedy",5563,Electricity,False
-774,"Gibson, Wilcox and Lambert",72996,Coconut,True
-775,Mills Inc,91819,Pillow,False
-776,"Richard, White and Williams",22374,Water,True
-777,"Warren, Medina and Beck",22936,Water,True
-778,Copeland Ltd,54783,Coconut,True
-779,Simpson Inc,94356,Bottle,False
-780,Wright Inc,19062,Computer,True
-781,Rivera-Rivera,11114,Water,True
-782,Thompson Inc,41954,Glass,False
-783,"Dunlap, Hall and Horne",50457,Water,True
-784,"Graves, Thomas and Mack",79774,Electricity,True
-785,"Butler, Soto and Ross",32038,Furniture,True
-786,Paul-Adams,94178,Coconut,True
-787,"Harris, Myers and Smith",72868,Flour,True
-788,Jimenez-Pierce,7403,Coconut,False
-789,"Boyd, Duran and Robertson",73241,Furniture,False
-790,"Le, Rodriguez and Jones",86156,Furniture,False
-791,"Myers, Marks and Vargas",36619,Electricity,False
-792,"Graves, Carter and Logan",8339,Glass,True
-793,Hunter-Hamilton,94383,Computer,True
-794,Flores-Anderson,35093,Coconut,True
-795,"Williams, Salazar and Erickson",10457,Flour,True
-796,Gardner and Sons,95597,Bottle,True
-797,Murray LLC,37739,Pillow,True
-798,"Patel, Shepherd and Brown",88291,Newspaper,True
-799,Vincent PLC,88088,Glass,True
-800,Dean-Owens,64808,Glass,True
-801,Logan and Sons,61078,Coconut,False
-802,Crosby LLC,62592,Coconut,True
-803,Curtis-Harris,49408,Newspaper,False
-804,"Costa, Avila and Burns",57966,Coconut,True
-805,King-Steele,41148,Pillow,False
-806,Sharp-Smith,66567,Newspaper,True
-807,Hanson Group,23315,Flour,True
-808,Johnson-Aguirre,67878,Computer,True
-809,Anderson and Sons,33233,Pillow,True
-810,Turner and Sons,90854,Pillow,True
-811,"Mendez, Myers and Thomas",60346,Coconut,False
-812,Bentley-Jones,66149,Newspaper,True
-813,"Smith, Ferguson and Henderson",29025,Furniture,False
-814,Collins Ltd,4393,Bottle,False
-815,"Gill, Mason and Baker",24112,Pillow,True
-816,"Barr, Nelson and Sandoval",22133,Pillow,False
-817,Johnson-Lloyd,50512,Flour,False
-818,Murphy PLC,9764,Pillow,True
-819,"Hernandez, Jennings and Moore",67840,Flour,True
-820,Oneill LLC,66536,Water,False
-821,Griffith LLC,94863,Coconut,True
-822,"Lindsey, Flowers and Underwood",49471,Newspaper,True
-823,Miller-Frye,12895,Bottle,False
-824,Pittman-Mcdonald,77051,Water,True
-825,Turner-Santiago,15292,Furniture,True
-826,Scott-Welch,64940,Electricity,True
-827,"Hurley, Weaver and Hart",81086,Bottle,True
-828,Smith Ltd,51552,Glass,False
-829,Ramirez-Potts,54115,Coconut,False
-830,Adams Inc,82415,Bottle,False
-831,"Black, Reeves and Fleming",11768,Coconut,False
-832,Berger Inc,89842,Pillow,True
-833,"Smith, Nielsen and Jordan",20206,Water,False
-834,"Sexton, Kelly and Smith",48690,Coconut,True
-835,Nelson and Sons,92500,Glass,False
-836,Tucker and Sons,20056,Glass,False
-837,Howard PLC,11622,Newspaper,True
-838,Wright-Johnston,81121,Water,True
-839,Shaffer-Aguilar,35391,Pillow,True
-840,Robertson-Mcmahon,13130,Electricity,False
-841,Tyler-Randall,56273,Electricity,True
-842,"Boyd, Bennett and Johnson",94589,Flour,False
-843,Oconnor-Fletcher,57510,Bottle,True
-844,"Ramos, Parker and Kaiser",70297,Newspaper,False
-845,"Smith, Gilbert and Rose",96648,Pillow,True
-846,Harrison and Sons,62050,Bottle,False
-847,"Mann, Gibson and Hardy",75817,Glass,True
-848,Jackson-Hernandez,45820,Computer,False
-849,"Moreno, Taylor and Taylor",334,Computer,False
-850,"Clark, Jones and Newton",12090,Electricity,False
-851,Mcdaniel-Saunders,60185,Pillow,True
-852,Murphy-Jones,49207,Glass,False
-853,Hayes-Nelson,2853,Coconut,True
-854,Goodman-Patton,97641,Water,True
-855,"Rodriguez, Banks and Chan",18921,Pillow,False
-856,Moore-Hines,19484,Newspaper,False
-857,"Brock, Little and Williams",16089,Computer,True
-858,Casey and Sons,83321,Electricity,False
-859,Gutierrez-Martinez,73339,Coconut,False
-860,"Frey, Beck and Gonzales",87596,Coconut,False
-861,"Bond, Bailey and Morgan",85848,Bottle,True
-862,Thomas-Mitchell,14573,Coconut,True
-863,"Gray, West and Saunders",61678,Flour,False
-864,Blake-Richardson,57189,Bottle,True
-865,Todd LLC,54882,Computer,False
-866,Martinez-Pugh,25601,Flour,True
-867,Ward Group,91669,Coconut,False
-868,Buckley-Richards,8763,Coconut,True
-869,Hoffman-King,99054,Furniture,False
-870,Rivera PLC,77884,Glass,True
-871,"Adams, Parsons and Martin",5885,Electricity,False
-872,Dominguez-Lopez,63053,Pillow,False
-873,"Trujillo, Ortiz and Collier",90447,Flour,True
-874,Wolfe Inc,6950,Glass,False
-875,Duffy-Jones,94029,Furniture,False
-876,Wade-Ramirez,59486,Coconut,True
-877,Oliver LLC,66072,Furniture,True
-878,Martin-Delacruz,26575,Computer,False
-879,Leonard-Rich,58631,Electricity,False
-880,"Conner, Ramirez and Gonzalez",61924,Computer,True
-881,Yu Inc,63134,Electricity,True
-882,Adkins-Parrish,74989,Pillow,False
-883,"Baker, Thompson and Williams",42385,Pillow,True
-884,Sharp-Molina,4535,Pillow,False
-885,Gonzalez Inc,89440,Coconut,False
-886,Garcia-Smith,98839,Computer,True
-887,Palmer-Marshall,65513,Coconut,False
-888,"Martinez, Flores and Larsen",65988,Electricity,True
-889,"Foster, Mcclure and Cook",28777,Coconut,True
-890,"Hughes, Reed and Carrillo",4668,Pillow,True
-891,Chan PLC,58526,Newspaper,False
-892,Gordon-Rivera,81623,Electricity,False
-893,"Watson, Arias and Velasquez",39130,Furniture,True
-894,"Hodge, Rose and Hamilton",88946,Furniture,True
-895,"Lawrence, Cole and Gilbert",94574,Bottle,True
-896,Watkins-Solis,73204,Pillow,True
-897,"Martin, Harris and Hernandez",56913,Glass,False
-898,Archer-Brewer,77553,Pillow,True
-899,"Gibson, Wilson and Mays",18214,Pillow,True
-900,Gutierrez-Rivera,44582,Water,False
-901,White-Perez,47368,Computer,False
-902,Elliott LLC,7261,Computer,False
-903,Callahan Inc,59371,Water,True
-904,Frey Ltd,83743,Computer,False
-905,"Allen, Rodriguez and Robinson",48303,Electricity,True
-906,Obrien-Martinez,52562,Pillow,True
-907,Williamson-Smith,33992,Coconut,True
-908,"Curtis, Lewis and Cross",152,Flour,False
-909,Fox-Brady,86396,Bottle,True
-910,Dickson-Black,73951,Water,True
-911,"Anderson, Smith and Barton",54408,Water,True
-912,"Meyer, Taylor and House",55806,Pillow,True
-913,Santos PLC,76130,Glass,True
-914,"Jones, Elliott and Clark",55461,Newspaper,True
-915,"Sampson, Miller and Garcia",32978,Computer,True
-916,"Smith, Hicks and Pierce",75311,Computer,False
-917,Johnson-Collins,63794,Furniture,False
-918,Wheeler-Ford,21115,Glass,False
-919,"Levy, Gates and Baldwin",20538,Water,False
-920,Cooke LLC,36669,Glass,True
-921,"Burnett, Simpson and Wagner",42505,Flour,False
-922,"Jones, Young and Luna",80649,Water,True
-923,"Lang, Hodge and Miller",51182,Flour,False
-924,Steele Group,76168,Pillow,False
-925,Kline-Cunningham,56395,Electricity,True
-926,"Middleton, Watson and Brown",59590,Furniture,True
-927,"Young, Hicks and French",21561,Pillow,True
-928,Francis-Haney,95726,Coconut,False
-929,"Dixon, Haynes and Mason",64217,Coconut,True
-930,Johnson LLC,46478,Newspaper,False
-931,Osborne Group,49229,Water,False
-932,Bruce PLC,42413,Electricity,False
-933,Griffith Group,32449,Computer,True
-934,Montgomery LLC,13221,Furniture,False
-935,"Bray, Reynolds and Morton",42453,Glass,False
-936,Riley-Bishop,17572,Pillow,False
-937,"Johnson, Gaines and Warner",65572,Newspaper,False
-938,Bell-Gonzalez,97564,Glass,False
-939,Brown LLC,41942,Glass,True
-940,Willis-Austin,21056,Water,True
-941,"Vasquez, Harris and Hernandez",42943,Pillow,True
-942,Gonzales LLC,59580,Flour,True
-943,"Ford, Miller and Werner",4744,Water,False
-944,Hudson and Sons,816,Pillow,True
-945,"Gutierrez, Williams and White",2332,Glass,True
-946,"Farmer, Lee and Vargas",40712,Bottle,True
-947,Murphy-Moore,46507,Water,True
-948,"Hunt, Nelson and Russell",14355,Pillow,False
-949,"Hall, Goodwin and Walter",43071,Electricity,True
-950,Schultz-Flores,38238,Coconut,False
-951,Roberts PLC,17328,Computer,True
-952,Patterson-Wright,68412,Coconut,True
-953,Foster-Miller,62688,Electricity,False
-954,"Smith, Saunders and Cook",47062,Furniture,False
-955,Lawrence-Swanson,83497,Bottle,False
-956,Bailey PLC,5321,Pillow,True
-957,Freeman-Perkins,98267,Bottle,False
-958,Carpenter-Martinez,96758,Bottle,False
-959,Hoffman-Hill,46844,Computer,False
-960,"Ferrell, Reed and Gardner",4618,Computer,False
-961,Stone-Warner,84434,Glass,True
-962,Carlson PLC,94220,Flour,True
-963,Little LLC,93764,Bottle,False
-964,"Butler, Martinez and Gardner",14244,Computer,True
-965,Ramos-Caldwell,5411,Glass,False
-966,Johnson-Myers,41326,Computer,False
-967,"Anderson, Mclaughlin and Henderson",94719,Furniture,False
-968,Morton-Gordon,90652,Bottle,False
-969,Miller-Lawson,1418,Furniture,False
-970,Huynh LLC,32916,Newspaper,True
-971,Smith-Martinez,74173,Newspaper,False
-972,"Bautista, Collins and Calhoun",28281,Bottle,True
-973,Scott-Delgado,55091,Coconut,False
-974,Collins-Johnson,49642,Newspaper,False
-975,"Baldwin, Davis and York",69389,Bottle,False
-976,Copeland LLC,76493,Newspaper,False
-977,Edwards Inc,69752,Glass,False
-978,Burke LLC,33702,Flour,True
-979,Combs LLC,66303,Flour,False
-980,Lowery-Owens,42367,Flour,True
-981,Fuentes-Randall,38398,Furniture,False
-982,Jenkins-Lucas,4898,Water,True
-983,"Collins, Norman and Mccoy",60222,Coconut,True
-984,Gutierrez-Smith,70806,Furniture,False
-985,Stephens and Sons,48028,Coconut,False
-986,Garcia-Estrada,53564,Flour,True
-987,Taylor-Turner,5381,Furniture,True
-988,Ramirez-Sanders,61938,Electricity,True
-989,Hunt LLC,22242,Newspaper,False
-990,Perry-Wilkinson,53657,Bottle,False
-991,"Moore, Pope and Fowler",4966,Flour,False
-992,Holder-Johnson,23076,Water,True
-993,"Castillo, Garcia and Clark",2737,Electricity,False
-994,Huynh Ltd,22376,Water,True
-995,Murray Ltd,24709,Glass,True
-996,Larson Group,29153,Coconut,False
-997,"Pacheco, Carson and Perkins",91450,Electricity,True
-998,Lewis and Sons,72388,Water,False
-999,"Fernandez, Padilla and Nunez",53940,Water,False
+0,"Smith, Morris and Wheeler",72335,Computer,False
+1,Williams-Escobar,71630,Flour,True
+2,Rodriguez LLC,1183,Glass,False
+3,Baker-Gill,89526,Newspaper,False
+4,"Scott, Phelps and Ray",86768,Newspaper,False
+5,Schmidt LLC,71600,Pillow,False
+6,Williams PLC,46158,Pillow,False
+7,"Hoffman, Wilson and Callahan",87177,Coconut,False
+8,Robles-Stevens,12846,Furniture,True
+9,Thomas LLC,50621,Pillow,False
+10,Gibson Inc,49339,Coconut,False
+11,"Williams, Bryant and Fields",25378,Water,True
+12,Richards and Sons,5443,Water,False
+13,"Weber, Franco and Nelson",39204,Furniture,False
+14,Chang PLC,37116,Electricity,True
+15,Smith PLC,90870,Computer,True
+16,Daniels Inc,17474,Furniture,False
+17,Tucker-Nielsen,82644,Flour,True
+18,Jenkins-Barnes,34660,Furniture,True
+19,Cooper-Strickland,43978,Glass,True
+20,Harris Ltd,57832,Computer,True
+21,"Rowland, Keith and George",74281,Newspaper,True
+22,"Nguyen, Graham and Kaufman",87165,Coconut,False
+23,"Wheeler, White and Moore",68055,Coconut,True
+24,Diaz-Robinson,62210,Flour,True
+25,Smith Group,11954,Electricity,True
+26,Kemp-Rodriguez,26191,Electricity,True
+27,Villarreal Ltd,6138,Water,False
+28,Santana and Sons,72031,Glass,False
+29,"Ritter, Keller and Gamble",31023,Electricity,False
+30,Adams-Carter,60275,Bottle,True
+31,Wright Group,19367,Furniture,True
+32,"Hall, Burnett and Young",7737,Computer,False
+33,"Jordan, Buchanan and Nixon",22435,Electricity,False
+34,Serrano Ltd,82858,Flour,True
+35,"Holden, Webb and Rivera",90212,Flour,True
+36,Jones-Thompson,38823,Pillow,False
+37,Alvarez PLC,50275,Water,True
+38,"Carlson, Smith and Walters",51314,Bottle,True
+39,Carter-Bender,36219,Pillow,False
+40,Chavez PLC,63684,Coconut,True
+41,Bass Inc,39810,Newspaper,False
+42,"Lewis, Brandt and Robinson",19282,Glass,False
+43,Sullivan-Waters,96327,Coconut,False
+44,Woods-Doyle,83031,Pillow,True
+45,Johnson-Williams,90676,Newspaper,True
+46,Jones Ltd,67923,Computer,True
+47,"Dixon, Johnson and Barajas",21751,Bottle,True
+48,Torres-Hicks,4683,Newspaper,False
+49,Rogers-Tucker,41308,Computer,False
+50,Gonzalez-Smith,79747,Glass,True
+51,Roberson-Scott,22039,Coconut,False
+52,"Sellers, Carr and Johnson",37619,Computer,False
+53,"Wood, Morgan and Rodgers",98856,Bottle,False
+54,Thomas Inc,24947,Electricity,True
+55,Gilmore and Sons,96133,Glass,False
+56,"Harris, Fox and Thompson",99819,Bottle,False
+57,"Lewis, Brady and Gutierrez",2563,Glass,True
+58,Morgan-Pollard,14294,Coconut,False
+59,Smith Group,67968,Furniture,False
+60,"Thompson, Scott and Morgan",24908,Bottle,False
+61,"Kennedy, Martin and Martin",75614,Flour,False
+62,Lopez-Thomas,92852,Bottle,False
+63,Baker and Sons,51931,Coconut,True
+64,"Perry, Ward and Parrish",8124,Water,True
+65,Smith-Hall,60520,Coconut,False
+66,"Clements, Smith and Lambert",92687,Flour,False
+67,Herrera-White,72143,Pillow,False
+68,Baldwin-Malone,84121,Coconut,True
+69,Walsh Inc,55349,Bottle,False
+70,Hardy and Sons,64852,Bottle,False
+71,Anderson-Espinoza,33362,Water,True
+72,"Garcia, Jones and Smith",8770,Computer,False
+73,Crawford-Stevens,50328,Coconut,False
+74,Martinez LLC,22047,Furniture,False
+75,Maldonado Ltd,85956,Computer,False
+76,Sullivan-Delacruz,43757,Computer,True
+77,"Blake, Haley and Copeland",71620,Newspaper,True
+78,Peters-Wilkinson,78869,Furniture,False
+79,Carter-Martinez,49185,Furniture,True
+80,"Lopez, Brown and Guerrero",83038,Furniture,False
+81,Harris and Sons,79217,Newspaper,True
+82,Jefferson LLC,3934,Flour,False
+83,Martin Group,99537,Flour,True
+84,"Cisneros, Schwartz and Smith",15833,Coconut,True
+85,Payne-Webb,90313,Newspaper,False
+86,"Burke, Gutierrez and Garcia",26878,Bottle,True
+87,Sandoval Ltd,15996,Furniture,True
+88,"Wang, Cochran and Wilson",26996,Coconut,True
+89,Leonard-Hardy,25926,Pillow,True
+90,Andersen-Huynh,15509,Flour,True
+91,"Herrera, Jacobs and Tanner",53972,Coconut,True
+92,"Mcdowell, Sanchez and Robinson",98954,Flour,True
+93,"Rose, Olson and Newman",70254,Water,True
+94,Murray-Murphy,78941,Water,True
+95,Brewer-Lee,82667,Water,True
+96,Yates-Martinez,79900,Water,True
+97,Freeman-White,47164,Bottle,True
+98,Jenkins-Franco,37066,Water,True
+99,"Brown, Woods and Parks",98011,Electricity,True
+100,"Taylor, Moreno and Moran",83978,Pillow,False
+101,Small and Sons,55801,Coconut,True
+102,"Pierce, Bates and Espinoza",24946,Coconut,True
+103,Larsen-Brooks,22989,Glass,False
+104,Combs-Murray,87534,Electricity,True
+105,Palmer Inc,58406,Flour,False
+106,Wilson-Ferguson,83467,Newspaper,False
+107,Rodriguez-Neal,11948,Coconut,True
+108,Thomas-Garcia,18025,Flour,True
+109,"Miller, Hartman and Parker",56395,Newspaper,False
+110,Chavez-Jones,63108,Bottle,True
+111,Dudley PLC,93879,Glass,False
+112,Davis Inc,28881,Pillow,True
+113,"Heath, Matthews and Cunningham",36712,Computer,True
+114,Delgado-Munoz,93944,Electricity,True
+115,Solomon Group,39279,Furniture,True
+116,Cooper-Hawkins,54952,Electricity,False
+117,"Townsend, Gomez and Carter",55532,Flour,True
+118,"Miller, Hill and Khan",88093,Computer,False
+119,"Reilly, Fischer and Johnson",83310,Pillow,True
+120,Williams Group,95745,Glass,True
+121,Hebert Inc,24720,Furniture,False
+122,Perry-Montoya,66020,Coconut,True
+123,Cruz Ltd,38734,Pillow,True
+124,Miller Ltd,5032,Flour,True
+125,"Kramer, White and Hernandez",73578,Bottle,False
+126,Martinez Group,90843,Bottle,False
+127,Reynolds PLC,27776,Pillow,True
+128,Ryan PLC,85598,Glass,True
+129,"Andrews, Barber and Gilbert",46603,Coconut,True
+130,"Garcia, Kelley and Jenkins",27311,Bottle,False
+131,"Chavez, Bryan and Barker",44623,Newspaper,True
+132,"Schwartz, Woodard and Perez",14263,Water,False
+133,Hill-Burch,74414,Electricity,False
+134,"Brooks, Howard and Freeman",29165,Coconut,True
+135,Jackson-Dixon,71608,Newspaper,True
+136,Beck-Wade,70785,Newspaper,True
+137,Walsh Ltd,68266,Computer,True
+138,Robinson-Hall,24960,Flour,False
+139,"Thomas, Smith and Dyer",13259,Computer,False
+140,"Lee, Howe and Wheeler",4091,Pillow,False
+141,Oconnor-Ball,94608,Coconut,True
+142,Browning-Henry,38295,Computer,True
+143,"Martin, Smith and Matthews",10641,Water,False
+144,"Mueller, Sosa and Trevino",12401,Furniture,True
+145,Martinez Inc,79156,Furniture,False
+146,Sanchez Inc,77456,Bottle,False
+147,Gonzales-Mckenzie,45494,Electricity,True
+148,Bennett-Frazier,91193,Computer,True
+149,"Williams, Thomas and Delgado",76044,Water,False
+150,"Pierce, Collins and Montgomery",65076,Glass,True
+151,"Harris, Blanchard and Williams",61658,Computer,True
+152,Murphy PLC,14753,Newspaper,True
+153,"Fisher, Johns and Simpson",13982,Coconut,False
+154,Mendez-Fisher,2417,Newspaper,True
+155,"Myers, Jackson and Smith",11840,Water,False
+156,"Johnson, Meadows and Callahan",39029,Electricity,False
+157,White and Sons,24441,Furniture,False
+158,Santos-Ballard,27347,Furniture,True
+159,Allen Inc,40906,Glass,False
+160,Davis Ltd,31375,Bottle,True
+161,"Thompson, Hernandez and Barker",59642,Furniture,True
+162,"Lopez, Reed and Hicks",28829,Furniture,False
+163,Case Inc,3656,Electricity,False
+164,Smith PLC,56209,Pillow,True
+165,Allison-Pittman,94178,Electricity,True
+166,Lee-Martinez,70563,Bottle,False
+167,Ross Ltd,57603,Computer,False
+168,"Price, Williams and Cannon",40628,Computer,True
+169,Hall-Bryan,3706,Computer,True
+170,Gregory LLC,13390,Glass,True
+171,"Turner, Benson and Newman",11653,Electricity,True
+172,"Riddle, Mccarthy and Foster",10200,Bottle,True
+173,Gray-Gray,29561,Newspaper,True
+174,"Anderson, White and Miller",10323,Pillow,True
+175,Hill PLC,63850,Electricity,False
+176,"Morris, Williams and Combs",81274,Glass,False
+177,Williams-Cortez,22031,Glass,False
+178,Bryant-Jones,23963,Water,False
+179,Rodriguez-Lee,36909,Pillow,False
+180,Hunt LLC,18147,Electricity,True
+181,"Collins, Smith and Clayton",99112,Electricity,True
+182,Martinez LLC,56019,Newspaper,True
+183,Sanchez PLC,7661,Flour,True
+184,"Harper, Downs and Hendricks",48252,Computer,True
+185,"Kelly, Jackson and West",3375,Flour,True
+186,Reed-Perry,18058,Pillow,True
+187,Obrien-Johns,35344,Furniture,False
+188,Gray Ltd,97034,Coconut,True
+189,Pham LLC,8042,Flour,False
+190,"Steele, Benitez and Cisneros",11243,Computer,False
+191,Roberts and Sons,85832,Water,True
+192,Savage Ltd,56960,Flour,True
+193,Watkins PLC,59991,Computer,True
+194,Anderson-Conway,99368,Glass,False
+195,Gibson PLC,7411,Coconut,True
+196,"Logan, Roth and Copeland",8367,Electricity,False
+197,"Robinson, Allison and Clark",23282,Electricity,True
+198,George LLC,10366,Bottle,True
+199,Davis Ltd,83812,Newspaper,True
+200,"Jones, Schwartz and Kim",4336,Furniture,False
+201,"Brooks, Pena and Martin",19187,Electricity,True
+202,Hansen-James,99299,Water,False
+203,Richards-Gilmore,29515,Water,False
+204,Harris-Rodriguez,66647,Water,True
+205,"Dodson, Sanford and Smith",96092,Coconut,True
+206,Simmons Group,88587,Electricity,False
+207,Young-Larsen,92159,Flour,False
+208,Davis-Thompson,26149,Glass,False
+209,Rasmussen-Kerr,83650,Computer,False
+210,Andrade-Green,19605,Computer,False
+211,Webb PLC,51536,Flour,True
+212,Gray-Mitchell,71505,Electricity,False
+213,"Nunez, Mills and Dominguez",89192,Water,True
+214,Glenn-Estrada,32767,Coconut,False
+215,"Ball, Rios and Ramirez",58428,Bottle,False
+216,Johnson-Brown,38980,Electricity,True
+217,"Lopez, Gallegos and Weeks",72262,Water,False
+218,Kelley-Maynard,88160,Water,True
+219,Franklin Inc,68005,Bottle,True
+220,Bates Inc,47104,Glass,True
+221,Walter-Hernandez,48232,Furniture,False
+222,Page-Bryant,43283,Pillow,True
+223,"Peterson, Gonzalez and Douglas",91531,Glass,False
+224,Sanchez Group,431,Electricity,False
+225,Watts Ltd,22963,Computer,True
+226,Bates Inc,10421,Newspaper,True
+227,"Fields, Medina and Gilbert",69713,Newspaper,True
+228,"Russell, Acosta and Chaney",21776,Computer,True
+229,"Ferguson, Alvarez and Mejia",13291,Flour,False
+230,Huber Ltd,12772,Computer,True
+231,"Garcia, Jones and Armstrong",85847,Newspaper,True
+232,Larson-Barnes,78650,Water,False
+233,Wright-Blackwell,26727,Newspaper,True
+234,"Sanders, Quinn and Walker",86948,Flour,False
+235,"Murray, Franco and Camacho",59208,Pillow,False
+236,Nelson-Hughes,98941,Electricity,False
+237,Jackson-Freeman,42537,Glass,False
+238,Gould Group,70724,Bottle,False
+239,Ward Inc,65912,Furniture,False
+240,"Nelson, Watkins and Rodriguez",90793,Computer,False
+241,James PLC,38015,Electricity,False
+242,Gallegos-Moore,73536,Newspaper,False
+243,Fisher-Powell,52013,Glass,False
+244,Montgomery PLC,66362,Furniture,False
+245,"Sanders, Holt and Bradford",51999,Electricity,False
+246,Wilkinson Inc,86383,Water,True
+247,Smith LLC,87505,Newspaper,False
+248,White Inc,13417,Electricity,False
+249,Thompson-Washington,35762,Glass,True
+250,Hernandez LLC,30156,Flour,False
+251,Rogers-Cox,65697,Newspaper,False
+252,Perry-Andersen,35916,Water,False
+253,Swanson-Larson,55141,Water,False
+254,White-Hicks,78966,Computer,False
+255,Martin Inc,63688,Furniture,True
+256,Ford-Green,52707,Pillow,True
+257,Estes Group,2519,Water,False
+258,Santana-Pratt,22259,Pillow,True
+259,Porter-Oliver,36837,Pillow,False
+260,"Blake, Hill and Clark",68828,Pillow,True
+261,"Nelson, Hernandez and Carpenter",69608,Water,True
+262,Riley-Morales,51676,Pillow,True
+263,"Olson, Powell and Davis",24645,Furniture,True
+264,Hill-Turner,94026,Bottle,True
+265,Spencer-Phillips,83091,Bottle,False
+266,Ward-Cline,3090,Newspaper,True
+267,"Houston, Contreras and Evans",53564,Pillow,False
+268,"Pitts, Morris and Ramirez",86615,Bottle,False
+269,Shaw Inc,85994,Electricity,False
+270,Hill Group,95649,Newspaper,True
+271,Gonzalez-Blevins,51831,Water,False
+272,Rodriguez Inc,5886,Bottle,True
+273,Holloway-Howard,55676,Coconut,True
+274,"Oconnor, Hill and Davis",19446,Bottle,True
+275,Mendez PLC,24513,Water,False
+276,"Rogers, Foster and Baldwin",97859,Water,False
+277,"Jensen, Taylor and White",2660,Water,True
+278,"Williams, Salas and Gonzalez",62723,Glass,True
+279,Mccoy Group,11415,Pillow,False
+280,"Smith, Bond and Anderson",59927,Electricity,False
+281,Clark LLC,65223,Electricity,False
+282,Park Inc,32761,Glass,True
+283,Myers-Meza,5801,Furniture,False
+284,Schultz and Sons,51484,Bottle,False
+285,Mccormick LLC,95826,Flour,True
+286,Knight-Fields,16537,Glass,True
+287,Smith Group,47803,Glass,False
+288,Callahan Inc,61564,Computer,True
+289,Williams-Woods,97629,Water,True
+290,"Brown, Harvey and Allen",88692,Electricity,False
+291,Mckinney Group,68085,Flour,False
+292,"Gonzalez, Mccormick and Mays",65198,Coconut,True
+293,Sanders Group,41209,Furniture,False
+294,Bell-Mckenzie,20416,Newspaper,True
+295,"Shaw, Schultz and Sanders",83707,Furniture,False
+296,Edwards and Sons,60921,Pillow,True
+297,Banks-Walker,94428,Flour,False
+298,Mcdaniel and Sons,86214,Coconut,True
+299,Carpenter-French,81223,Newspaper,True
+300,"Lane, Sweeney and Sullivan",8695,Coconut,True
+301,Heath-Doyle,42514,Water,False
+302,Gibson Ltd,96707,Flour,False
+303,Stewart-Werner,68986,Water,False
+304,Mitchell-Collins,31984,Bottle,False
+305,"Reeves, Cooper and King",77219,Coconut,True
+306,Wright-Williams,56864,Pillow,False
+307,"Gutierrez, Rios and Hardy",67094,Computer,False
+308,"Taylor, Carter and Miller",26522,Coconut,True
+309,"Waller, Harris and Young",1774,Water,False
+310,"Arnold, Morales and Mcdonald",51347,Coconut,False
+311,Salazar-Odom,70898,Pillow,True
+312,Holloway Group,746,Coconut,True
+313,Johnson PLC,94735,Electricity,False
+314,"Bass, Ryan and Lynch",51793,Coconut,False
+315,"Phillips, Garrett and Sandoval",42404,Computer,True
+316,Turner-Jackson,76051,Bottle,False
+317,Parks-Tran,79379,Computer,False
+318,"Roberts, Smith and Bishop",59343,Computer,True
+319,"Allison, Schwartz and Turner",45217,Glass,True
+320,"Reyes, Miller and Patterson",42835,Glass,False
+321,Kirk Group,77136,Flour,False
+322,"Phillips, Marshall and Harmon",28741,Water,True
+323,Perry Ltd,85910,Furniture,True
+324,Butler-Caldwell,67007,Flour,False
+325,Williams Group,8943,Coconut,False
+326,Moore PLC,16755,Electricity,True
+327,"Thompson, Rush and Ferguson",8000,Computer,True
+328,"Best, Norris and Dean",87411,Glass,False
+329,Gay-Kim,62570,Furniture,False
+330,"Rowe, Harris and Wilson",74189,Computer,True
+331,Carlson-Nash,48287,Electricity,True
+332,Compton LLC,20936,Coconut,False
+333,"Gutierrez, Atkins and Russell",66241,Coconut,True
+334,Walters-Pennington,66618,Glass,False
+335,Harris-Davis,836,Flour,True
+336,Gutierrez-Yates,83040,Electricity,False
+337,Roberts-Fisher,97175,Bottle,True
+338,"Andrews, Mathis and Hull",30929,Coconut,True
+339,"Diaz, Harris and Sanchez",95468,Flour,False
+340,Ferrell-Powell,81412,Bottle,False
+341,Caldwell-Hall,58988,Bottle,True
+342,Smith-Wright,62533,Newspaper,False
+343,Harrison Ltd,71645,Furniture,False
+344,Humphrey-Frank,28721,Water,True
+345,Alexander Inc,97208,Electricity,False
+346,Solomon Inc,1116,Newspaper,False
+347,Williams-Curtis,55801,Pillow,False
+348,Cardenas Inc,56447,Flour,False
+349,Pope-Matthews,40915,Newspaper,False
+350,"Phillips, Beard and Ward",33382,Flour,True
+351,Gibbs-Russo,49324,Pillow,False
+352,Hendricks Ltd,23916,Furniture,True
+353,"Page, Rose and Graham",10728,Flour,False
+354,Dougherty-Henry,24843,Bottle,False
+355,Morales-Martin,10850,Glass,True
+356,"Wright, Campbell and Watkins",29409,Coconut,True
+357,May Group,3004,Bottle,False
+358,"Sweeney, Williams and Bradford",13189,Newspaper,True
+359,"Coleman, Wood and Nelson",38245,Water,False
+360,Clay-Williams,9474,Bottle,True
+361,Castro-Marshall,46946,Bottle,False
+362,Maxwell-Craig,82426,Bottle,True
+363,"Robinson, Baker and Greer",84454,Flour,True
+364,"Hensley, Duncan and Wood",47615,Water,False
+365,Miller Ltd,81689,Pillow,True
+366,"Booth, Rice and Cox",97604,Flour,True
+367,"Hall, Mejia and Howe",25006,Flour,True
+368,Kelly-Kim,67867,Pillow,False
+369,"Phillips, Cole and Houston",67845,Water,False
+370,Taylor-Oconnor,97249,Coconut,False
+371,Mccoy-Taylor,35781,Coconut,False
+372,"Barnes, Howard and Allen",58655,Glass,True
+373,Smith-Bailey,5845,Pillow,True
+374,"Quinn, Ochoa and Miller",63730,Pillow,False
+375,"Love, Jennings and Fox",87726,Electricity,False
+376,Oconnor LLC,97475,Furniture,True
+377,Estrada-Turner,63809,Bottle,False
+378,Williams-Johnson,40286,Newspaper,False
+379,Price-Contreras,85089,Glass,True
+380,Hogan Ltd,65449,Electricity,False
+381,Oconnor and Sons,15203,Bottle,True
+382,"Ware, May and White",76130,Electricity,False
+383,"Baird, Morton and Nash",77409,Computer,False
+384,Parker Ltd,60647,Coconut,False
+385,Brooks-Romero,58091,Pillow,False
+386,Zamora-Morgan,39682,Glass,False
+387,Johnson-Marsh,28877,Flour,True
+388,Evans LLC,53539,Coconut,False
+389,Walters-Morris,92471,Flour,True
+390,Lane and Sons,27624,Newspaper,True
+391,Booker Group,47285,Water,True
+392,Wagner-Davis,41246,Newspaper,False
+393,"Thompson, Morales and Hutchinson",93433,Computer,False
+394,"Jones, Glover and Dawson",11931,Electricity,True
+395,Tanner PLC,15166,Coconut,True
+396,Fox-Koch,16086,Pillow,True
+397,"Hernandez, Parker and Cox",17578,Computer,True
+398,"Daugherty, Fischer and Chambers",19622,Electricity,True
+399,Torres LLC,30179,Water,False
+400,"Smith, Sanchez and Moore",89173,Bottle,False
+401,"Giles, Lowery and Lewis",82523,Electricity,True
+402,"Jordan, Boyer and Shannon",64744,Computer,True
+403,"Ashley, Guzman and Welch",83529,Water,False
+404,Avery-Arnold,47253,Glass,True
+405,"Wagner, Price and Stewart",42279,Computer,True
+406,"Morales, Cruz and Anderson",30499,Coconut,True
+407,"Fox, Reynolds and Freeman",27586,Glass,True
+408,"Mason, Williams and Huffman",20131,Computer,False
+409,Wells LLC,56024,Electricity,True
+410,Luna PLC,51060,Bottle,True
+411,Martin PLC,19429,Bottle,False
+412,"Meyers, Schwartz and Garcia",97035,Water,True
+413,"Lopez, Williams and Moore",66096,Electricity,False
+414,"Mclaughlin, Gonzalez and Hicks",55473,Computer,True
+415,"Weber, Fernandez and Smith",68696,Newspaper,False
+416,Miller-Butler,49071,Electricity,True
+417,Peters and Sons,70608,Computer,False
+418,Miller Inc,6935,Water,False
+419,"Romero, Frost and Hampton",61467,Electricity,True
+420,Hines Inc,59125,Furniture,True
+421,Russell-Lee,40162,Glass,True
+422,"Fletcher, Anthony and Woods",66288,Glass,False
+423,White-Arnold,34992,Pillow,False
+424,Johnston-Green,41,Pillow,False
+425,Fernandez-Clark,49591,Pillow,False
+426,Camacho Ltd,51000,Flour,True
+427,"Taylor, Diaz and James",58757,Furniture,False
+428,Ellis-Moore,82807,Computer,True
+429,"Wood, Rodriguez and Patterson",16470,Flour,False
+430,"Garcia, Foley and Rollins",80680,Glass,True
+431,"Vargas, West and Hill",22613,Furniture,False
+432,"Cox, Silva and Green",31873,Electricity,True
+433,"Carter, Harvey and Ibarra",76268,Bottle,False
+434,Long-Jackson,84713,Bottle,False
+435,"Harris, Gray and Smith",56271,Glass,True
+436,Bishop LLC,63279,Bottle,True
+437,Scott-Mitchell,12314,Glass,False
+438,Morrison-Taylor,65003,Glass,True
+439,"Barnett, Bishop and Anderson",33826,Coconut,True
+440,"Moreno, Austin and Kaufman",28400,Computer,False
+441,Simon-Anderson,34212,Electricity,True
+442,Decker-Carlson,95971,Newspaper,False
+443,Leon-Brown,47670,Electricity,True
+444,Simon PLC,48668,Pillow,False
+445,Jones Ltd,89816,Water,False
+446,"Kim, Douglas and Davis",39265,Bottle,False
+447,Gonzales Inc,12234,Coconut,False
+448,Whitaker-Lopez,8936,Furniture,False
+449,James-Ruiz,71219,Coconut,False
+450,"Owens, Newman and Nelson",72280,Coconut,False
+451,Collins and Sons,87591,Flour,False
+452,Wagner PLC,61469,Computer,True
+453,Tran-Kennedy,87292,Coconut,True
+454,"White, Kramer and Ball",91028,Water,True
+455,"Roach, Green and Stuart",87810,Glass,True
+456,"Potter, Hayes and Patterson",39584,Furniture,False
+457,"Smith, Hill and Schultz",18173,Water,False
+458,Meyer PLC,96784,Electricity,False
+459,Hudson-Whitehead,23039,Water,False
+460,Warren LLC,60499,Furniture,False
+461,Sampson-Merritt,77095,Electricity,True
+462,Knapp-Green,70623,Furniture,True
+463,"Cruz, Long and Brown",40560,Water,False
+464,Fernandez-Wise,71460,Newspaper,False
+465,Fisher LLC,21775,Flour,False
+466,Martinez PLC,86933,Coconut,True
+467,"Howard, Allen and Barker",23719,Water,True
+468,"Swanson, Smith and Tucker",70067,Computer,False
+469,Foster and Sons,92531,Newspaper,True
+470,Flowers Group,12580,Bottle,True
+471,Peters Ltd,48827,Flour,False
+472,"Mayer, Morgan and Callahan",24532,Glass,False
+473,Gutierrez Group,13032,Furniture,True
+474,Schneider-Owens,20923,Newspaper,True
+475,"Ramirez, Henderson and Madden",93989,Furniture,False
+476,"Price, Harris and Weber",28719,Glass,False
+477,"Hudson, Williams and Smith",40836,Water,False
+478,Lara-Diaz,21750,Glass,False
+479,Williams-Farrell,63354,Flour,False
+480,Sandoval-Alvarez,54651,Water,True
+481,Evans-Castro,39808,Computer,False
+482,Ford Group,86361,Glass,True
+483,Vargas-Mason,68834,Glass,False
+484,Howard-Nelson,9018,Electricity,False
+485,"Chaney, Patel and George",78511,Water,False
+486,"Howard, Pitts and Mcintosh",52487,Furniture,True
+487,"Warner, Evans and Avila",37863,Pillow,True
+488,"Williams, Silva and Williams",73276,Coconut,False
+489,"Allen, Herrera and Lozano",49783,Furniture,False
+490,Richardson-Solis,77595,Electricity,True
+491,"Jackson, Atkins and Martin",72610,Flour,True
+492,"Shah, Clark and Ramos",54653,Coconut,False
+493,Nielsen-Garcia,58524,Computer,True
+494,Lewis PLC,89243,Flour,False
+495,Schultz-Mason,72447,Glass,False
+496,Olson-Mitchell,38449,Newspaper,True
+497,Moore-Santiago,8042,Computer,True
+498,"Strickland, Bruce and Rivas",69780,Coconut,True
+499,Bowers-Lyons,11400,Newspaper,True
+500,Cobb PLC,48907,Coconut,True
+501,"Boyd, Jenkins and Hess",22185,Furniture,False
+502,Ayala LLC,53642,Glass,False
+503,"Ryan, Neal and Schneider",19335,Water,False
+504,Gonzales-Palmer,14034,Bottle,True
+505,"Williamson, Garcia and Hunt",99283,Electricity,False
+506,"Summers, Mason and Young",81253,Glass,True
+507,"Mckinney, Robinson and Rodriguez",75442,Bottle,True
+508,Smith Inc,29557,Flour,False
+509,Hopkins and Sons,11623,Bottle,True
+510,Olson-Williams,72451,Pillow,True
+511,Walton and Sons,36714,Bottle,False
+512,Sellers LLC,62009,Flour,True
+513,"Lindsey, Gallagher and Garcia",74691,Coconut,False
+514,"Torres, Scott and Moore",1472,Flour,True
+515,Logan-Bush,12010,Electricity,False
+516,Brown-Potter,41404,Glass,False
+517,Larsen-Phillips,1528,Glass,False
+518,"Dunn, Thomas and Bishop",78127,Furniture,True
+519,Lewis LLC,80254,Flour,True
+520,"Hubbard, Burgess and Brown",75304,Flour,True
+521,Robinson-Adams,21508,Furniture,False
+522,Page-Walsh,5609,Computer,True
+523,Forbes-Nelson,9502,Flour,False
+524,"Smith, Griffith and Martinez",34574,Coconut,False
+525,Benitez-Todd,88642,Pillow,True
+526,"Franklin, Johnson and Lopez",51596,Coconut,False
+527,Lee PLC,33591,Coconut,True
+528,Kennedy Ltd,72252,Glass,True
+529,"Bell, Parsons and Lopez",10616,Coconut,True
+530,Fischer Inc,89237,Computer,True
+531,"Huffman, Ho and Blankenship",28984,Flour,False
+532,Mckay Inc,24444,Bottle,True
+533,Salazar LLC,70463,Electricity,False
+534,Hart-Wheeler,70703,Furniture,False
+535,Chandler PLC,15085,Glass,False
+536,Owen Inc,2243,Water,True
+537,Ward and Sons,51772,Newspaper,True
+538,"Montes, Glass and Robertson",90625,Furniture,False
+539,Wallace and Sons,93278,Water,True
+540,Marquez-Dorsey,48935,Computer,False
+541,Morgan and Sons,88405,Flour,False
+542,Mcdowell Ltd,65905,Pillow,True
+543,Herrera-White,5502,Pillow,False
+544,"Warren, Richardson and Dorsey",37215,Computer,True
+545,Cabrera and Sons,77029,Newspaper,True
+546,Griffith-Hensley,79705,Water,False
+547,Cantu LLC,26575,Glass,False
+548,Campos LLC,36063,Flour,True
+549,Jenkins-Gonzalez,6037,Bottle,False
+550,Brooks PLC,53881,Water,True
+551,Wood and Sons,25965,Electricity,True
+552,Fisher Ltd,33391,Coconut,False
+553,"Salazar, Anderson and Ford",67894,Glass,False
+554,"Harvey, Nichols and Oliver",22843,Glass,False
+555,"Jackson, Kelly and Lewis",37339,Pillow,True
+556,"Little, Payne and Johnson",78021,Computer,True
+557,Torres-Mcdaniel,3489,Flour,True
+558,Williams Group,11754,Bottle,False
+559,Smith-White,38639,Pillow,False
+560,Ramirez-Wolfe,85210,Furniture,True
+561,Mcbride and Sons,72673,Computer,True
+562,Stewart-Alvarez,34008,Flour,False
+563,"Roberson, Scott and Pitts",66971,Glass,False
+564,Harvey-Jones,47535,Flour,True
+565,Davis Ltd,64567,Newspaper,False
+566,"Mclaughlin, Robinson and Watson",44960,Water,False
+567,"Baker, Smith and Walker",76687,Water,True
+568,"Kelly, Moreno and Wells",96097,Electricity,False
+569,"Gonzales, Walker and Hampton",16265,Glass,False
+570,Martin-Barton,55899,Pillow,False
+571,"Lane, Suarez and Ward",41989,Coconut,False
+572,"Jenkins, Odom and Burke",73751,Electricity,True
+573,Castro Ltd,60689,Computer,True
+574,Williams Group,22761,Electricity,False
+575,Robinson Group,66684,Coconut,True
+576,Harvey-Kane,2836,Newspaper,True
+577,Parker-Davis,98018,Water,False
+578,Garcia and Sons,2183,Electricity,False
+579,"Williams, Smith and Smith",74003,Pillow,False
+580,Sanders Group,47395,Bottle,False
+581,Oconnor-Jones,75801,Coconut,True
+582,"Brooks, Hughes and Rivera",96482,Water,False
+583,Hale and Sons,82583,Newspaper,True
+584,"Jefferson, Alexander and Ferguson",69539,Glass,False
+585,Cook PLC,36630,Furniture,False
+586,"Bailey, Nelson and Mathis",3337,Bottle,True
+587,Brown PLC,53768,Furniture,False
+588,"Williams, Berry and Sloan",20931,Newspaper,True
+589,Mejia-Hayes,35233,Flour,False
+590,Brown Ltd,25361,Newspaper,True
+591,Hughes Ltd,18489,Flour,True
+592,"Ayala, Smith and Peterson",32220,Bottle,False
+593,Austin-Williams,3249,Coconut,False
+594,"Malone, Smith and Reynolds",59993,Pillow,True
+595,Rose-Smith,79744,Coconut,True
+596,Young Ltd,4545,Pillow,False
+597,Rivera-Williams,37719,Newspaper,False
+598,Green Inc,56763,Newspaper,True
+599,Henderson-Smith,82013,Coconut,False
+600,"Campbell, Davis and Shaw",50831,Bottle,False
+601,Park LLC,89645,Flour,False
+602,Maddox-Thomas,9753,Water,True
+603,"Daniels, Herrera and Mcgee",17741,Coconut,False
+604,Franklin-Fuentes,68296,Flour,True
+605,Cuevas-Mcdonald,23552,Computer,False
+606,"Atkinson, Ramsey and Henry",49072,Water,False
+607,Powers and Sons,34934,Glass,True
+608,Bishop-King,1302,Water,True
+609,"Rodriguez, Ellis and Scott",57559,Coconut,True
+610,Johns LLC,48442,Flour,True
+611,"Murphy, Robinson and Dawson",25198,Glass,False
+612,"Walters, Mitchell and Flores",57236,Water,True
+613,"Macdonald, Brown and Page",72017,Electricity,False
+614,Curtis-Bell,31866,Furniture,False
+615,Cox and Sons,76487,Coconut,False
+616,Hayes and Sons,99942,Pillow,False
+617,Nguyen-Rodriguez,20213,Computer,True
+618,"Haynes, Bell and Arnold",24299,Electricity,False
+619,Sanders-Garcia,32247,Glass,False
+620,Mayer Inc,72036,Pillow,True
+621,Hines-Lowe,87197,Bottle,False
+622,White Group,20863,Pillow,False
+623,Davila-Ingram,75592,Water,False
+624,"Garrett, Davis and Hays",86615,Flour,False
+625,"Olson, Hartman and Mendez",75160,Glass,True
+626,Vincent-Robinson,56816,Bottle,False
+627,Harrison PLC,4733,Furniture,True
+628,Gentry-Turner,8263,Newspaper,True
+629,Murray-Wilson,5500,Newspaper,False
+630,Mueller and Sons,66452,Glass,True
+631,"Thompson, Young and Schmidt",67331,Water,True
+632,Rodriguez-Goodman,77893,Furniture,True
+633,Lee Ltd,87166,Water,True
+634,Bradford Inc,18116,Newspaper,True
+635,Aguilar-Edwards,84694,Glass,False
+636,"Garcia, Lewis and Rios",49077,Furniture,True
+637,"Hernandez, Martinez and Adams",38277,Flour,True
+638,"Perry, Guerrero and Cunningham",22460,Electricity,False
+639,Reid LLC,17802,Flour,True
+640,Meyers-Woods,13034,Bottle,True
+641,"Johnson, Johnson and Lee",48033,Electricity,False
+642,Joyce Group,59969,Electricity,True
+643,Carr Inc,44672,Glass,False
+644,Mccoy PLC,49559,Pillow,True
+645,Smith-Garcia,32940,Bottle,True
+646,Benson-Salas,96667,Bottle,False
+647,"Adams, Hernandez and Anderson",64056,Flour,True
+648,"Hart, Grimes and Johnson",50249,Glass,False
+649,Rodriguez-Rivera,22517,Electricity,False
+650,Peters-Burnett,78631,Computer,False
+651,Simmons-Tyler,45026,Computer,True
+652,"Pena, Hernandez and Brooks",75985,Bottle,False
+653,"Watson, Harrison and Collins",2552,Electricity,True
+654,"Sharp, Fry and Alexander",90869,Flour,False
+655,"Huff, Cox and Young",44094,Glass,True
+656,Kelly-Barr,14050,Computer,True
+657,Phillips-Murphy,91984,Electricity,False
+658,Johnson PLC,86005,Pillow,True
+659,Wilson LLC,16443,Glass,False
+660,"Peters, Day and Medina",35975,Electricity,True
+661,Clark-Williams,18655,Water,True
+662,Beltran-Brown,93916,Coconut,False
+663,"Klein, Branch and Kerr",314,Electricity,True
+664,"Becker, Reese and Moreno",77147,Glass,True
+665,Martinez-Maynard,30025,Coconut,True
+666,"Moore, Brown and Griffith",97135,Flour,True
+667,"Bowman, Price and Williams",88156,Bottle,False
+668,Powell-Clark,66435,Newspaper,True
+669,Smith and Sons,12857,Bottle,False
+670,"Vega, Garcia and Stanley",78324,Bottle,False
+671,"Lewis, Porter and Dunn",85288,Furniture,False
+672,"Keller, Harrison and Finley",80795,Electricity,True
+673,Juarez-Hawkins,83729,Water,True
+674,Chavez-Pacheco,78656,Electricity,True
+675,Taylor-Johnson,83108,Bottle,False
+676,Oconnell PLC,74686,Flour,False
+677,Mack-Hernandez,87264,Computer,False
+678,Barr Ltd,1532,Bottle,False
+679,Conley-Schaefer,85592,Glass,False
+680,"Roberts, Norris and Thompson",29471,Newspaper,False
+681,Shaw Ltd,74265,Water,True
+682,Collins-Bishop,53147,Computer,False
+683,"Jackson, Edwards and Bradley",15804,Computer,True
+684,"Kim, Sanchez and Kent",13769,Flour,True
+685,"Brewer, Smith and Parks",24910,Flour,True
+686,Smith-Alexander,44619,Water,False
+687,"Matthews, Stewart and Johnson",30686,Computer,True
+688,Henson Inc,62901,Water,False
+689,Cannon-Fletcher,97910,Water,False
+690,Guerrero-Gutierrez,76407,Electricity,False
+691,Jennings-Conner,62964,Bottle,True
+692,Mendez-Duncan,39764,Coconut,False
+693,"Clay, Burton and Owens",54540,Newspaper,True
+694,Wood LLC,39509,Glass,False
+695,Harmon-Welch,47708,Coconut,True
+696,Byrd-Johnson,27914,Newspaper,False
+697,Cabrera PLC,38082,Water,False
+698,"Meyers, Miller and Williamson",38969,Flour,False
+699,Baldwin PLC,68864,Computer,False
+700,Price-Larson,54584,Newspaper,True
+701,Barr-Stevenson,28795,Flour,True
+702,Parks-Whitehead,62623,Electricity,True
+703,Brown Group,95248,Bottle,True
+704,"David, Myers and Morris",88078,Furniture,True
+705,Booth Ltd,11945,Newspaper,True
+706,Morrow-Navarro,5680,Pillow,True
+707,"Gonzales, Hughes and Crane",27217,Coconut,True
+708,"Mccoy, Peterson and Juarez",24658,Pillow,True
+709,Turner-Strong,3593,Glass,False
+710,"Torres, Brock and Gordon",60192,Flour,False
+711,Tate-Baker,67682,Electricity,False
+712,Byrd-Moore,3407,Electricity,False
+713,Webb-Wilson,73928,Flour,False
+714,Travis-Kirk,45293,Coconut,False
+715,"Hall, Horton and Cox",6755,Pillow,False
+716,Allen Group,1515,Computer,True
+717,Flores Group,98777,Furniture,False
+718,"Walker, Rodriguez and Briggs",34277,Water,True
+719,Hopkins-Powell,25667,Newspaper,False
+720,"Salas, Lopez and Morgan",56538,Coconut,True
+721,"Gilbert, Wood and Cameron",67724,Furniture,True
+722,"Elliott, Melton and May",51858,Computer,True
+723,"Rodgers, King and Garcia",10272,Glass,True
+724,Werner-Mendez,64552,Electricity,True
+725,"Preston, Marks and Diaz",20701,Coconut,False
+726,"Garcia, Terry and Mccoy",33914,Newspaper,True
+727,Howard PLC,2845,Newspaper,False
+728,"Weber, Freeman and Thomas",94440,Flour,False
+729,Bowman Ltd,8640,Glass,False
+730,"Dunn, Mcbride and Miller",81536,Pillow,True
+731,"Nichols, Delgado and Castillo",81390,Water,False
+732,Kelly and Sons,81570,Bottle,True
+733,Matthews-Soto,20177,Coconut,True
+734,"Arroyo, Scott and Lewis",36456,Glass,True
+735,Mckinney Group,37721,Water,False
+736,Rush LLC,32709,Computer,True
+737,Perez-Martinez,5850,Furniture,True
+738,Hughes PLC,33318,Flour,False
+739,Frank Ltd,68994,Water,True
+740,"Johnson, Davis and Morales",77784,Glass,True
+741,"Martin, Lee and Kane",60201,Water,True
+742,Phelps Inc,32448,Glass,True
+743,Crosby Ltd,77903,Newspaper,True
+744,"Rose, Espinoza and Anderson",80279,Water,True
+745,"Reed, Anderson and Gutierrez",78892,Flour,True
+746,Richards PLC,86452,Computer,True
+747,Santiago-Holden,94320,Newspaper,False
+748,White-Williams,16731,Glass,False
+749,Hahn and Sons,21830,Coconut,True
+750,"Bowers, Smith and Schroeder",84590,Furniture,False
+751,"Shaffer, Phillips and Miller",1165,Flour,True
+752,Jordan Inc,9870,Glass,True
+753,"Vasquez, Johnson and Sanchez",34381,Electricity,False
+754,Lane-Garrison,86795,Glass,False
+755,Valenzuela PLC,28756,Water,True
+756,Russell-Townsend,62592,Glass,False
+757,"Reyes, Harris and Garrett",34476,Computer,True
+758,Schmidt Group,59847,Electricity,False
+759,"King, Norman and Daniels",35659,Computer,False
+760,"Peck, Johnson and Sanchez",25901,Bottle,True
+761,Ramsey-Barr,94907,Computer,False
+762,"Foster, Lopez and Johnson",54710,Glass,False
+763,Mosley Group,27810,Glass,False
+764,Little-Miller,21477,Coconut,True
+765,"Campbell, Flowers and Campbell",25424,Pillow,False
+766,Knox Ltd,75260,Furniture,False
+767,Willis-Francis,48479,Bottle,True
+768,Anderson-Mckee,40468,Electricity,False
+769,Jones Ltd,76236,Furniture,True
+770,Brown Group,34797,Bottle,False
+771,"Singh, Owen and Munoz",53177,Pillow,False
+772,Stark and Sons,98016,Glass,False
+773,"Hall, Williams and Mcdonald",97419,Coconut,False
+774,Williams-Kim,98228,Bottle,False
+775,Johnston and Sons,72329,Glass,True
+776,"Gross, Brewer and Miller",79965,Flour,False
+777,"Jenkins, Serrano and Ruiz",81926,Flour,True
+778,"Wilson, Nguyen and Hart",14833,Computer,True
+779,Odonnell Inc,79784,Bottle,True
+780,Hill-Ayala,95150,Electricity,False
+781,Castro-Yu,96396,Furniture,True
+782,"Morgan, Johnson and House",99971,Bottle,False
+783,Johnson-Garcia,80646,Flour,False
+784,Summers-Abbott,10643,Coconut,True
+785,"Miller, Mann and Johnson",87533,Glass,True
+786,"Aguirre, Smith and Jones",39415,Pillow,False
+787,"Johnson, Harvey and Davis",44574,Newspaper,True
+788,Ruiz-Hansen,5625,Newspaper,False
+789,"Wilkinson, Hunt and Munoz",93726,Water,True
+790,Thomas-Garcia,70838,Coconut,False
+791,Shepard LLC,51668,Pillow,True
+792,Davis PLC,85023,Pillow,True
+793,"Andrade, Rodriguez and West",16644,Electricity,True
+794,"Erickson, Hudson and Patterson",31349,Coconut,False
+795,"Henderson, Carter and Wright",52973,Glass,False
+796,Estrada-Miller,28998,Computer,True
+797,Barber-Meyer,68598,Newspaper,False
+798,Bailey Ltd,56321,Furniture,False
+799,Park PLC,15157,Bottle,True
+800,Peterson-Klein,74525,Glass,False
+801,Stewart-Rodriguez,89324,Pillow,False
+802,Brown-Riley,50683,Water,True
+803,"Berry, Bishop and Allen",36512,Computer,True
+804,Stewart-Delacruz,11024,Coconut,False
+805,Harding Group,17257,Water,True
+806,"Jackson, Lawson and Peters",45280,Furniture,True
+807,Davis LLC,13265,Pillow,False
+808,Hunter Group,4676,Pillow,True
+809,Cochran-Choi,81635,Glass,True
+810,"Roach, Mccarthy and Johnson",75444,Flour,False
+811,Rogers PLC,35186,Furniture,False
+812,"Wilson, Anderson and Walker",60222,Bottle,False
+813,"Williams, Martinez and Goodwin",78423,Electricity,True
+814,"Bryant, Lopez and Ellis",14397,Bottle,False
+815,Henry-Hamilton,76835,Newspaper,False
+816,"Gutierrez, Davenport and Alvarez",22091,Bottle,True
+817,"Clark, Young and Matthews",62118,Water,False
+818,Williams-Blackburn,70492,Computer,True
+819,Roberts-Price,11435,Bottle,False
+820,Phillips Ltd,9330,Water,False
+821,Davis LLC,79717,Computer,True
+822,Todd-Garza,43338,Water,True
+823,"Burnett, Glass and Bryant",8978,Flour,True
+824,Hughes-Roy,22998,Glass,True
+825,Ellis-Rollins,28085,Computer,False
+826,Rivera-Little,12997,Newspaper,True
+827,Schmitt-Salinas,44987,Coconut,True
+828,Vasquez Ltd,89347,Water,True
+829,"Kline, Foley and Chandler",59549,Bottle,False
+830,Wyatt PLC,3741,Electricity,False
+831,Davis LLC,89530,Water,False
+832,Patel-Hernandez,87679,Computer,True
+833,"Perez, Nolan and Villanueva",76578,Computer,True
+834,Mooney-Randall,39866,Flour,False
+835,"Hinton, Davenport and Oliver",99787,Glass,True
+836,Lynn Ltd,51916,Bottle,True
+837,Hicks Inc,97970,Bottle,True
+838,Harris Ltd,80246,Coconut,False
+839,Black-Wright,97385,Newspaper,False
+840,Miller Ltd,61765,Newspaper,True
+841,Rodriguez-Hopkins,56195,Pillow,False
+842,"Stout, Pacheco and Henry",70516,Flour,True
+843,Keller Ltd,38402,Furniture,True
+844,"Gross, Anderson and Melendez",21112,Newspaper,False
+845,Harrison Inc,62950,Bottle,False
+846,"Bailey, Rodriguez and White",23305,Computer,False
+847,Hahn-Adams,20818,Bottle,True
+848,Rodriguez-Ramirez,89883,Coconut,True
+849,Davis-Byrd,4865,Computer,False
+850,Edwards Group,24128,Pillow,True
+851,"Bowers, Deleon and Garrett",76711,Newspaper,True
+852,Davis-Lynch,30728,Furniture,True
+853,"Chen, Davis and White",39403,Bottle,True
+854,Torres-Ramirez,65906,Furniture,True
+855,Harper PLC,59715,Computer,True
+856,Morse-Martinez,91114,Glass,False
+857,Goodman Group,80460,Coconut,True
+858,Scott-Mcdonald,95430,Furniture,False
+859,Nash Inc,16908,Glass,False
+860,"Mendoza, Cordova and Wilson",57713,Pillow,False
+861,Johnson PLC,86057,Furniture,True
+862,"Castillo, Bell and Hamilton",74863,Coconut,True
+863,"Wilson, Francis and Roberts",33458,Bottle,True
+864,Johnson Inc,79231,Water,True
+865,"Leblanc, Schneider and Wade",63755,Bottle,False
+866,Landry Ltd,9709,Bottle,True
+867,Cantrell-Collins,15890,Coconut,False
+868,"Keith, Johnson and Williams",32274,Coconut,True
+869,Barrett-Lewis,92301,Flour,True
+870,"Kelly, Weeks and Preston",73006,Furniture,True
+871,Rogers Group,89763,Furniture,True
+872,"Bernard, Adams and Lee",42090,Newspaper,True
+873,Miller and Sons,44246,Coconut,False
+874,Horton Group,23282,Flour,True
+875,Holland-Miller,90248,Electricity,True
+876,Barron-Stevens,78491,Flour,False
+877,Romero and Sons,95804,Flour,True
+878,Foley-Simmons,9929,Pillow,True
+879,Simmons Ltd,58041,Water,False
+880,Harrison-Mullen,86503,Bottle,True
+881,Kirk and Sons,44785,Furniture,True
+882,Silva-Lambert,34267,Furniture,True
+883,Rogers-Garcia,99408,Glass,False
+884,Wheeler and Sons,42322,Newspaper,True
+885,Lopez-Burns,69086,Bottle,True
+886,Martinez LLC,29537,Furniture,True
+887,Anderson-Lewis,94931,Glass,True
+888,"Ho, Williamson and Walker",49519,Newspaper,True
+889,Gonzalez PLC,59836,Bottle,True
+890,"Wilkerson, Hall and Harris",74039,Glass,False
+891,Suarez-Williams,86099,Electricity,True
+892,Mckenzie Inc,45243,Bottle,False
+893,Lane-Martin,5490,Computer,False
+894,Sanchez Ltd,25100,Glass,False
+895,Benton PLC,57524,Electricity,False
+896,"Lane, Vasquez and Beard",37416,Bottle,True
+897,"Williams, Silva and Berry",93635,Water,True
+898,"Hall, Cochran and Figueroa",89399,Bottle,True
+899,Salas-Cook,30896,Furniture,True
+900,"King, Jones and Cortez",64748,Electricity,True
+901,Sims-Bennett,20962,Computer,True
+902,"Smith, Smith and Robinson",24820,Newspaper,True
+903,Carpenter-Myers,37166,Newspaper,False
+904,Joseph Ltd,21403,Newspaper,False
+905,Payne-Rhodes,86749,Electricity,False
+906,Stewart-Smith,18295,Flour,False
+907,Walker-Morris,79426,Furniture,False
+908,"George, Smith and Parrish",87916,Water,True
+909,"Mathis, Ellis and Bond",25003,Glass,False
+910,Estrada-Duke,87786,Pillow,False
+911,Mason LLC,58535,Bottle,False
+912,Gregory Ltd,93780,Electricity,True
+913,Barrett LLC,63505,Computer,True
+914,Porter PLC,34307,Flour,False
+915,Chang and Sons,43496,Flour,True
+916,Duffy-Vargas,41875,Electricity,False
+917,"Perez, Cordova and Ortega",84332,Newspaper,True
+918,Edwards-Welch,56128,Pillow,True
+919,Briggs-Jones,34091,Flour,True
+920,Caldwell Inc,39938,Glass,False
+921,"Hester, Branch and Valenzuela",72095,Bottle,True
+922,"Wilson, Castaneda and Roberts",96422,Pillow,False
+923,Trevino-Lewis,19216,Electricity,True
+924,"Johnson, Maynard and Knight",69829,Newspaper,False
+925,Knox-Wilson,90748,Pillow,True
+926,"Davies, Hancock and Murray",81859,Computer,True
+927,"Santiago, Brown and Novak",90308,Furniture,True
+928,"Patterson, Montes and Lee",38887,Coconut,False
+929,Branch-Simpson,2045,Glass,False
+930,Willis-Duncan,99486,Water,True
+931,Moss-Estes,19255,Coconut,True
+932,Brown Ltd,71724,Water,True
+933,Campos-Solomon,8139,Coconut,False
+934,Solomon-Young,61141,Electricity,True
+935,Oconnor-Barnes,91661,Glass,False
+936,"Jordan, Pierce and Blevins",98625,Water,True
+937,Silva and Sons,46334,Computer,True
+938,Davis PLC,47708,Pillow,False
+939,Hunter Inc,69547,Flour,False
+940,Hernandez PLC,11327,Flour,True
+941,Ford-Miller,87679,Electricity,False
+942,Martin-Payne,5490,Electricity,False
+943,"Frazier, Klein and Huff",44112,Bottle,True
+944,Smith-Cox,37762,Water,False
+945,Martin Group,30312,Coconut,False
+946,Caldwell-Blake,79181,Pillow,True
+947,May LLC,36304,Pillow,False
+948,Dunn-Mclean,53681,Glass,False
+949,Thompson Ltd,58546,Electricity,True
+950,Kline Group,77832,Computer,False
+951,Franklin Ltd,30541,Flour,True
+952,Long Inc,36083,Pillow,False
+953,"Hunter, Harding and Flores",67219,Computer,True
+954,"Vasquez, Randall and Mercer",36730,Pillow,True
+955,"Meyer, Munoz and Gonzales",58683,Flour,True
+956,"Phillips, Hart and Cisneros",78959,Furniture,True
+957,"Bennett, Simpson and Bowen",51476,Computer,True
+958,Harrell-Reese,93005,Bottle,True
+959,Stark and Sons,63361,Furniture,True
+960,"Adams, Nicholson and Carson",61177,Electricity,True
+961,Vaughn LLC,45298,Electricity,False
+962,Lowery LLC,51798,Newspaper,False
+963,Coleman-Figueroa,28823,Bottle,True
+964,Price Inc,23184,Bottle,True
+965,Ramos PLC,90983,Computer,True
+966,"Lee, Kaufman and Larson",63105,Water,False
+967,Moore-Rodriguez,18132,Coconut,False
+968,Sullivan Inc,10594,Furniture,False
+969,Burgess LLC,88492,Flour,True
+970,"West, Pierce and Burke",86455,Coconut,False
+971,May PLC,94135,Water,True
+972,Kaiser-Mckinney,51817,Electricity,False
+973,Holmes-Wright,45630,Coconut,True
+974,"Figueroa, Flowers and Espinoza",75497,Water,True
+975,"Miller, Patterson and Gomez",75588,Bottle,True
+976,Mendez Inc,65123,Computer,False
+977,Baldwin-Cruz,68902,Flour,True
+978,Wilkinson Inc,87547,Bottle,False
+979,Hamilton-Oneal,91067,Water,False
+980,Grant-Daniels,35338,Coconut,False
+981,White LLC,3004,Flour,True
+982,Grimes-Miller,83584,Flour,False
+983,Wagner-Williams,93246,Electricity,True
+984,Lewis Ltd,57810,Pillow,False
+985,"Perez, Hendricks and Mcdaniel",95874,Glass,False
+986,Lopez PLC,3013,Bottle,True
+987,Johnson Group,61068,Newspaper,False
+988,Thompson-Sanders,31428,Glass,True
+989,Reed-Chambers,74186,Water,True
+990,"Nelson, Johnson and Johnson",28430,Pillow,True
+991,Gross-Hernandez,54652,Newspaper,False
+992,"Medina, Macias and Ross",60460,Furniture,True
+993,Washington-Huff,52093,Newspaper,False
+994,Martin Inc,21870,Glass,False
+995,Reyes-Smith,91695,Computer,True
+996,Jones PLC,49301,Glass,True
+997,Ramirez Group,57765,Pillow,True
+998,"Medina, Williamson and Cooper",81908,Water,True
+999,Franklin-Bridges,77582,Electricity,True
