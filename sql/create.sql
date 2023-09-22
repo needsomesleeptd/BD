@@ -1,14 +1,14 @@
-CREATE TABLE players (
+CREATE TABLE  IF NOT EXISTS players (
 	player_id serial,
 	player_username VARCHAR ( 50 ),
     player_name TEXT,
     time_played INT,
     was_banned BOOLEAN,
-    best_hero_id INT,
+    win_rate INT,
     is_professional BOOLEAN
 );
 
-CREATE TABLE heroes (
+CREATE TABLE IF NOT EXISTS heroes (
 	hero_id serial,
 	hero_name TEXT,
     damage INT,
@@ -17,7 +17,7 @@ CREATE TABLE heroes (
     pick_percentage INT
 );
 
-CREATE TABLE team (
+CREATE TABLE IF NOT EXISTS team (
 	team_id serial,
 	team_name TEXT,
     is_occupied BOOLEAN,
@@ -25,7 +25,7 @@ CREATE TABLE team (
     popularity INT
 );
 
-CREATE TABLE sponsor (
+CREATE TABLE IF NOT EXISTS sponsor (
 	sponsor_id serial,
 	sponsor_name TEXT,
     networth INT,
@@ -33,14 +33,9 @@ CREATE TABLE sponsor (
     is_foreign BOOLEAN
 );
 
-CREATE TABLE leaderboard(
-    best_player_id INT,
-    best_hero_id INT,
-    timestamp TIME
-);
 
 
-CREATE TABLE game (
+CREATE TABLE IF NOT EXISTS game(
 	game_id serial,
 	player_id INT,
     hero_id INT,
@@ -49,5 +44,6 @@ CREATE TABLE game (
     viewers INT,
     kills INT,
     duration INT,
-    dark_won BOOLEAN
+    dark_won BOOLEAN,
+    time_start TIME
 );

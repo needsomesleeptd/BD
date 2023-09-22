@@ -2,19 +2,21 @@
 ALTER TABLE players ADD PRIMARY KEY (player_id);
 ALTER TABLE players ADD CONSTRAINT player_constraint UNIQUE (player_username);
 ALTER TABLE players ADD CONSTRAINT time_constraint CHECK(time_played < 100000);
-/*ALTER TABLE players ADD CONSTRAINT best_hero_constraint FOREIGN KEY (hero_id) REFERENCES heroes ();*/
 
 
+/*heroes*/
 ALTER TABLE heroes ADD PRIMARY KEY (hero_id);
 ALTER TABLE heroes ADD CONSTRAINT hero_name_constraint UNIQUE (hero_name);
 ALTER TABLE heroes ADD CONSTRAINT hero_damage_contraint CHECK(damage < 5000);
 ALTER TABLE heroes ADD CONSTRAINT hero_health_constraint CHECK(health < 200000);
 ALTER TABLE heroes ADD CONSTRAINT pick_percentage_constraint CHECK(pick_percentage < 100);
-/*ALTER TABLE ADD CONSTRAINT best_player_id FOREIGN KEY (best_player_id)
-        REFERENCES players (player_id)*/
+ALTER TABLE heroes ADD CONSTRAINT best_hero_constraint FOREIGN KEY (best_player_id)
+        REFERENCES players (player_id) ON DELETE SET NULL;
 
+/*team*/
 ALTER TABLE team ADD PRIMARY KEY (team_id);
 
+/*sponsor*/
 ALTER TABLE sponsor ADD PRIMARY KEY (sponsor_id);
 ALTER TABLE sponsor ADD CONSTRAINT networth_constraint_high CHECK(networth < 2000000000);
 ALTER TABLE sponsor ADD CONSTRAINT networth_constraint_low CHECK(0 < networth);

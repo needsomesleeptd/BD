@@ -39,13 +39,13 @@ class HeroGenerator():
 
 
 class Player():
-    def __init__(self,username=0,name=0,time=0,best_hero_id=0,was_banned=0,is_proffessional=0):
+    def __init__(self,username=0,name=0,time=0,winrate=0,was_banned=0,is_proffessional=0):
         #self.hero_id = id
         self.player_username = name
         self.player_name = name
         self.time_played = time
         self.was_banned = was_banned
-        self.best_hero_id = best_hero_id
+        self.win_rate = winrate
         self.is_professional = is_proffessional
 
 class PlayerGenerator():
@@ -62,7 +62,7 @@ class PlayerGenerator():
             player.player_username = names[i]
             player.player_name = self.fake_ru.unique.name()
             player.time_played = random.randint(1,self.max_time_played)
-            player.best_hero_id = random.randint(1,self.player_count)
+            player.win_rate = random.randint(1,99)
             player.is_professional = bool(random.randint(0, 1))
             player.was_banned = bool(random.randint(0,1))
             players.append(player)
@@ -134,10 +134,12 @@ class Game():
         self.kills = None
         self.duration = None
         self.dark_won = None
+        self.time_start = None
 
 
 class GameGenerator():
     def __init__(self,max_kills = 100, max_duration = 400,people_count = 999,hero_count = 999):
+        self.faker = Faker()
         self.max_kills = max_kills
         self.max_duration = max_duration
         self.people_count = people_count
@@ -154,6 +156,7 @@ class GameGenerator():
             game.player_id = random.randint(1,self.people_count)
             game.sponsor_id = random.randint(1,self.people_count)
             game.team_id = random.randint(1,self.people_count)
+            game.time_start = self.faker.date_time()
             games.append(game)
         return games
 
