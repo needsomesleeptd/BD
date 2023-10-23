@@ -18,16 +18,20 @@ SELECT  * FROM sponsor WHERE  product  IN ('Water','Computer','Pillow');
 SELECT  * FROM sponsor WHERE  sponsor_id  IN (SELECT sponsor_id  from sponsor where networth< 2000);
 
 /* 5. Инструкция SELECT, использующая предикат EXISTS со вложенным подзапросом */
-SELECT  hero_id,* FROM heroes WHERE
-                                  NOT EXISTS (SELECT hero_id from game  Where game.hero_id = heroes.hero_id);
+/*Герои которых никогда не выбирали*/
+SELECT  heroes.hero_id,* FROM heroes WHERE
+                                  NOT EXISTS
+                                      (SELECT hero_id from game  Where game.hero_id = heroes.hero_id);
 
 
 
 /* 6. Инструкция SELECT, использующая предикат сравнения с квантором */
 /*/1* */
-/* */
+/*Поиск игр у которых больше продолжительность чем у всех игр с меньшем чем 100 просмотрами*/
 SELECT  * FROM game WHERE  game.duration  >
     ALL (SELECT game.duration from game  Where game.viewers < 100);
+
+SELECT game.duration from game  Where game.viewers < 100;
 
 /* 7. Инструкция SELECT, использующая агрегатные функции в выражениях столбцов */
 SELECT is_professional, AVG(players.time_played) as avg_time FROM players GROUP BY is_professional;
@@ -36,7 +40,9 @@ SELECT game.hero_id ,AVG(game.duration) as avg_time FROM game GROUP BY game.hero
 
 
 /* 8. Инструкция SELECT, использующая скалярные подзапросы в выражениях столбцов */
-SELECT game_id,duration,player_id,  (SELECT avg(time_played) from players where game.player_id = players.player_id) from game;
+/**/
+SELECT player_id,player_name,
+       (SELECT avg(duration) from game where game.player_id = players.player_id) from players;
 /* 9. Инструкция SELECT, использующая простое выражение CASE */
 
 SELECT
@@ -60,7 +66,7 @@ SELECT
     CASE
         WHEN duration < 30 THEN 'easy'
         WHEN duration  < 60 THEN 'medium'
-        WHEN duration >= 60 THEN 'hard'
+        WHEN duration < 100 THEN 'hard'
         ELSE 'extrahard'
 
     END game_difficulty
@@ -154,6 +160,7 @@ SELECT game.player_id, min(player_username), count(*) as games_won
     from game inner join players on players.player_id = game.player_id
     where dark_won = true
     group by(game.player_id);
+SELECT * FROM players_stats;
 
 /* 18. Простая инструкция UPDATE */
 /*/1* */
@@ -168,14 +175,19 @@ UPDATE players SET was_banned = true  WHERE win_rate > (SELECT avg(win_rate) fro
 /*/1* */
 /* */
 DELETE  from leaderboard;
-DELETE  from players_stats where (SELECT games_won < 1);
+DELETE  from players_stats where (games_won < 1);
 
 /* 21. Инструкция DELETE со вложенным коррелированным подзапросом в предложении WHERE */
 /*/1* */
-/* */
+/* Тут поведение не определено*/
+DELETE  FROM players_stats
+        WHERE player_id  =
+              (SELECT player_id from game LIMIT 1);
+
 DELETE  from players_stats
         where player_id NOT IN
         (SELECT player_id from game);
+SELECT * FROM players_stats;
 
 /* 22. Инструкция SELECT, использующая простое обобщённое табличное выражение */
 /*/1* */
@@ -239,7 +251,7 @@ INSERT INTO game (game_id ,
     kills ,
     duration ,
     dark_won ,
-    time_start) VALUES (5001, 478, 1, 1, 6, 32,0,100,false,'02:02:02');
+    time_start) VALUES (5003, 478, 1, 1, 6, 32,0,100,false,'02:02:02');
 SELECT sponsor_name,sponsor.sponsor_id,player_id,
     AVG(sponsor.networth) OVER(PARTITION BY sponsor.sponsor_id,player_id) as salary,
     count(*)  OVER(PARTITION BY sponsor.sponsor_id,player_id) as c_sponsored
@@ -252,6 +264,8 @@ FROM sponsor JOIN game ON game.sponsor_id  = sponsor.sponsor_id;
 
 INSERT INTO pg_temp.leaderboard (SELECT  * from pg_temp.leaderboard);
 
+SELECT * from pg_temp.leaderboard;
+
 SELECT * from (SELECT player_id,
                       player_username,
                       win_rate,
@@ -259,6 +273,45 @@ SELECT * from (SELECT player_id,
                FROM leaderboard) as lead_temp
 where row_n > 1;
 
+/*Вывести информацию  о игроках которые сыграли не менее 3 игр, минимальная длительность всех игр  - 300,
+  Вывести информацию о продуктах споносоров и названиях их компаний/
+  Защита
+ */
 
+SELECT * FROM
+    (SELECT game.player_id,COUNT(*) as cnt,SUM(duration) as dur
+            FROM players
+     JOIN game
+    ON players.player_id=game.player_id
+    GROUP BY game.player_id HAVING SUM(duration) > 300 AND COUNT(*) >=3 ) as needed_players;
+
+/*completed task*/
+ SELECT players.*,pl_sp.product,pl_sp.networth,pl_sp.sponsor_name
+ FROM
+     (
+    SELECT s.networth,s.product,s.sponsor_name,player_id
+    FROM game RIGHT JOIN sponsor s on game.sponsor_id = s.sponsor_id
+     WHERE player_id IN
+    (SELECT players.player_id
+     FROM players
+     JOIN game
+    ON players.player_id=game.player_id
+    GROUP BY players.player_id HAVING SUM(duration) > 300 AND COUNT(*) >=3 )) as pl_sp
+    JOIN players on pl_sp.player_id = players.player_id;
+
+
+
+
+
+
+ SELECT player_id,s.product,s.networth
+
+    FROM game RIGHT JOIN sponsor s on game.sponsor_id = s.sponsor_id
+     WHERE player_id IN
+    (SELECT players.player_id
+     FROM players
+     JOIN game
+    ON players.player_id=game.player_id
+    GROUP BY players.player_id HAVING SUM(duration) > 300 AND COUNT(*) >=3 );
 
 /*SELECT * from players ORDER BY players.win_rate DESC LIMIT 100;*/
